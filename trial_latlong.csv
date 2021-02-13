@@ -1,0 +1,14 @@
+﻿origin,destination,routes,lat,long,d_lat,d_long
+Rio de Janeiro,Mozambique,550,-22.89687,-43.2041,-17.74087,35.3777
+"Bahia, port unspecified",Cabinda,70,-12.93997,-38.4939,-5.57,12.2
+"Pernambuco, port unspecified",Quilimane,50,-8.47,-37.95,-17.85,36.92
+"Southeast Brazil, port unspecified",Malembo,250,-22.89687,-43.2041,-5.3384,12.1876
+Lisbon,St. Paul de Loanda,950,38.69513,-9.1778,-8.80407,13.2333
+Nantes,Benguela,700,47.20643,-1.5681,-12.59,13.42
+"Guadaloupe, port unspecified","Africa., port unspecified",600,16.27,16.27,5.1036,-1.2411
+Bayonne,Congo River,400,43.49543,-1.4663,-6.07,12.45
+Senegal,Cap Lopez,50,14.72,-17.47,-0.7726,8.7812
+Matanzas,Bonny,200,23.06364,-81.53927,4.4142,7.1898
+Santos,Gabon,250,-23.92767,-46.3069,-0.8037,11.6094
+"Martinique, port unspecified",Gallinhas,50,14.59433,-61.062,11.4667,-15.6833
+Honfleur,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",80,49.42,0.233,2.833,8
