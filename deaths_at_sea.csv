@@ -1,30 +1,30 @@
-category,annotation,lives_lost
-Century,16th Century,70.25059382
-Century,17th Century,62.00479042
-Century,18th Century,36.82890399
-Century,19th Century,39.14446003
-Journey Length,6-9 Months,36.76234503
-Journey Length,9-12 Months,41.58744748
-Journey Length,Over 1 Year,48.38050784
-Journey Length,Under 6 Months,30.57709251
-Ship Owner,Great Britain,39.48241159
-Ship Owner,Portugal,39.52323547
-Ship Owner,France,43.93523906
-Ship Owner,USA,29.68124626
-Ship Owner,Spain,37.96365996
-Ship Owner,Netherlands,47.19639935
-Slaves Disembarked,Caribbean,41.66264284
-Slaves Disembarked,Brazil,36.1257084
-Slaves Disembarked,Spanish Mainland America,69.28314844
-Slaves Disembarked,Mainland North America,33.44077449
-Slaves Disembarked,Africa,36.60064935
-Slaves Disembarked,Europe,34.4375
-Slaves Purchased, West Central Africa and St. Helena,40.64065776
-Slaves Purchased, Other Africa,42.03272251
-Slaves Purchased, Bight of Benin,40.8364547
-Slaves Purchased, Bight of Biafra and Gulf of Guinea islands,47.87254902
-Slaves Purchased, Gold Coast,33.69825436
-Slaves Purchased, Senegambia and offshore Atlantic,34.44063223
-Slaves Purchased, Sierra Leone,24.23742277
-Slaves Purchased, Southeast Africa and Indian Ocean islands,74.01853871
-Slaves Purchased, Windward Coast,27.87807606
+category,annotation,lives_lost,diff_from_av
+Century,16th Century,70.25059382,29.46222568
+Century,17th Century,62.00479042,21.21642227
+Century,18th Century,36.82890399,-3.959464161
+Century,19th Century,39.14446003,-1.643908119
+Journey Length,6-9 Months,36.76234503,-4.026023117
+Journey Length,9-12 Months,41.58744748,0.799079332
+Journey Length,Over 1 Year,48.38050784,7.592139695
+Journey Length,Under 6 Months,30.57709251,-10.21127564
+Ship Owner,Great Britain,39.48241159,-1.305956559
+Ship Owner,Portugal,39.52323547,-1.265132681
+Ship Owner,France,43.93523906,3.146870912
+Ship Owner,USA,29.68124626,-11.10712189
+Ship Owner,Spain,37.96365996,-2.824708186
+Ship Owner,Netherlands,47.19639935,6.408031198
+Slaves Disembarked,Caribbean,41.66264284,0.874274689
+Slaves Disembarked,Brazil,36.1257084,-4.662659749
+Slaves Disembarked,Spanish Mainland America,69.28314844,28.49478029
+Slaves Disembarked,Mainland North America,33.44077449,-7.34759366
+Slaves Disembarked,Africa,36.60064935,-4.187718796
+Slaves Disembarked,Europe,34.4375,-6.350868147
+Slaves Purchased, West Central Africa and St. Helena,40.64065776,-0.147710383
+Slaves Purchased, Other Africa,42.03272251,1.244354366
+Slaves Purchased, Bight of Benin,40.8364547,0.048086557
+Slaves Purchased, Bight of Biafra and Gulf of Guinea islands,47.87254902,7.084180873
+Slaves Purchased, Gold Coast,33.69825436,-7.090113783
+Slaves Purchased, Senegambia and offshore Atlantic,34.44063223,-6.347735919
+Slaves Purchased, Sierra Leone,24.23742277,-16.55094538
+Slaves Purchased, Southeast Africa and Indian Ocean islands,74.01853871,33.23017057
+Slaves Purchased, Windward Coast,27.87807606,-12.91029208
