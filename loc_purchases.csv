@@ -2,7 +2,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1550,1500-1550,Cape Verde Islands,16.54,-23.04,23860
 1550,1500-1550,Albreda,13.3378,-16.3861,759
 1550,1500-1550,Portuguese Guinea,11,-10,324
-1550,1500-1550,"Africa., port unspecified",5.1036,-1.2411,733
 1550,1500-1550,"Gold Coast, Fr. definition",5.1761,-1.1233,359
 1550,1500-1550,São Tomé,0.34523,6.7371,2513
 1550,1500-1550,"West Central Africa and St. Helena, port unspecified",-3.4426,10.6563,363
@@ -12,7 +11,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1600,1550-1600,"Sierra Leone, port unspecified",8.57,-13.03,1408
 1600,1550-1600,Portuguese Guinea,11,-10,27971
 1600,1550-1600,Princes Island and Elmina,5.1053,-1.3421,709
-1600,1550-1600,"Africa., port unspecified",5.1036,-1.2411,88867
 1600,1550-1600,"Gold Coast, Fr. definition",5.1761,-1.1233,359
 1600,1550-1600,São Tomé,0.34523,6.7371,9862
 1600,1550-1600,"West Central Africa and St. Helena, port unspecified",-3.4426,10.6563,30840
@@ -23,7 +21,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1650,1600-1650,Gambia,13.4432,-15.3101,607
 1650,1600-1650,Sierra Leone estuary,8.48444,-13.23444,90
 1650,1600-1650,Portuguese Guinea,11,-10,24962
-1650,1600-1650,"Africa., port unspecified",5.1036,-1.2411,71174
 1650,1600-1650,"Gold Coast, port unspecified",5.1036,-1.2411,299
 1650,1600-1650,Gold Coast + Bight of Benin + Bight of Biafra,5.1761,-1.1233,2698
 1650,1600-1650,Accra,5.55,-0.02,213
@@ -58,7 +55,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1700,1650-1700,Axim,4.8665,-2.2409,338
 1700,1650-1700,Costa da Mina,5.0827,-1.348,39936
 1700,1650-1700,Elmina,5.1053,-1.3421,7263
-1700,1650-1700,"Africa., port unspecified",5.1036,-1.2411,144148
 1700,1650-1700,"Gold Coast, port unspecified",5.1036,-1.2411,35867
 1700,1650-1700,Cape Coast Castle,5.1,-1.24,6095
 1700,1650-1700,Alampo,5.102,-1.2388,1024
@@ -125,7 +121,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1750,1700-1750,Pokesoe (formerly Gross Friedrichsburg),4.7956,-2.134,1220
 1750,1700-1750,Costa da Mina,5.0827,-1.348,287618
 1750,1700-1750,Elmina,5.1053,-1.3421,62134
-1750,1700-1750,"Africa., port unspecified",5.1036,-1.2411,611051
 1750,1700-1750,"Gold Coast, port unspecified",5.1036,-1.2411,98509
 1750,1700-1750,Cape Coast Castle,5.1,-1.24,33000
 1750,1700-1750,Alampo,5.102,-1.2388,590
@@ -209,7 +204,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1800,1750-1800,Axim,4.8665,-2.2409,496
 1800,1750-1800,Costa da Mina,5.0827,-1.348,206047
 1800,1750-1800,Elmina,5.1053,-1.3421,23372
-1800,1750-1800,"Africa., port unspecified",5.1036,-1.2411,342731
 1800,1750-1800,"Gold Coast, port unspecified",5.1036,-1.2411,120714
 1800,1750-1800,Cape Coast Castle,5.1,-1.24,67962
 1800,1750-1800,"Anomabu, Adja, Agga",5.1761,-1.1233,122957
@@ -305,7 +299,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1850,1800-1850,Cape Lahou,5.1365,-5.026,1052
 1850,1800-1850,Costa da Mina,5.0827,-1.348,114577
 1850,1800-1850,Elmina,5.1053,-1.3421,1008
-1850,1800-1850,"Africa., port unspecified",5.1036,-1.2411,747196
 1850,1800-1850,"Gold Coast, port unspecified",5.1036,-1.2411,38994
 1850,1800-1850,Cape Coast Castle,5.1,-1.24,9913
 1850,1800-1850,"Anomabu, Adja, Agga",5.1761,-1.1233,3345
@@ -368,7 +361,6 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1900,1850-1900,Rio Pongo,10.05,-14.065,489
 1900,1850-1900,Sherbro,7.31,-12.3,612
 1900,1850-1900,"Lagos, Onim",6.5244,3.3792,3672
-1900,1850-1900,"Africa., port unspecified",5.1036,-1.2411,143986
 1900,1850-1900,Keta,5.9031,0.9868,1171
 1900,1850-1900,Popo,6.2833,1.833,1093
 1900,1850-1900,Whydah,6.363,2.085,7917
