@@ -198,7 +198,7 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1800,1750-1800,Cape Mount (Cape Grand Mount),7.133,-11.05,32813
 1800,1750-1800,Grand Mesurado,6.2945,-10.7452,1818
 1800,1750-1800,Portuguese Guinea,11,-10,649
-1800,1750-1800,"Lagos, Onim",37.1,-8.67,13183
+1800,1750-1800,"Lagos, Onim",6.5244,3.3792,13183
 1800,1750-1800,Garroway Roads,4.56,-7.91571,148
 1800,1750-1800,Tabou,5.1012,-7.3517,358
 1800,1750-1800,Ivory Coast,7.54,-5.5471,514
@@ -301,7 +301,7 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1850,1800-1850,Portuguese Guinea,11,-10,1374
 1850,1800-1850,Trade Town,5.7844,-9.8463,13
 1850,1800-1850,Grand Bassa,6.233,-9.833,1186
-1850,1800-1850,"Lagos, Onim",37.1,-8.67,71322
+1850,1800-1850,"Lagos, Onim",6.5244,3.3792,71322
 1850,1800-1850,Cape Lahou,5.1365,-5.026,1052
 1850,1800-1850,Costa da Mina,5.0827,-1.348,114577
 1850,1800-1850,Elmina,5.1053,-1.3421,1008
@@ -367,7 +367,7 @@ time_per,fifty_periods,main_place_slave_purch,purch_lat,purch_long,slaves_embark
 1900,1850-1900,Gallinhas,11.4667,-15.6833,1219
 1900,1850-1900,Rio Pongo,10.05,-14.065,489
 1900,1850-1900,Sherbro,7.31,-12.3,612
-1900,1850-1900,"Lagos, Onim",37.1,-8.67,3672
+1900,1850-1900,"Lagos, Onim",6.5244,3.3792,3672
 1900,1850-1900,"Africa., port unspecified",5.1036,-1.2411,143986
 1900,1850-1900,Keta,5.9031,0.9868,1171
 1900,1850-1900,Popo,6.2833,1.833,1093
