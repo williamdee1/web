@@ -1,918 +1,918 @@
-time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_long,slaves_embarked
-1550,1500-1550,Cape Verde Islands,Spain,16.54,-23.04,1330
-1550,1500-1550,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,359
-1550,1500-1550,São Tomé,Portugal,0.34523,6.7371,359
-1550,1500-1550,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,363
-1600,1550-1600,Cape Verde Islands,Portugal,16.54,-23.04,7210
-1600,1550-1600,Cape Verde Islands,Spain,16.54,-23.04,1791
-1600,1550-1600,"Sierra Leone, port unspecified",Great Britain,8.57,-13.03,1049
-1600,1550-1600,"Sierra Leone, port unspecified",Portugal,8.57,-13.03,359
-1600,1550-1600,Portuguese Guinea,France,11,-10,359
-1600,1550-1600,Portuguese Guinea,Portugal,11,-10,9749
-1600,1550-1600,Portuguese Guinea,Spain,11,-10,2512
-1600,1550-1600,"Africa., port unspecified",France,6.6111,20.9394,164
-1600,1550-1600,"Africa., port unspecified",Great Britain,6.6111,20.9394,700
-1600,1550-1600,"Africa., port unspecified",Portugal,6.6111,20.9394,5830
-1600,1550-1600,São Tomé,Portugal,0.34523,6.7371,3399
-1600,1550-1600,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,20829
-1600,1550-1600,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1006
-1600,1550-1600,Congo River,Portugal,-6.07,12.45,413
-1600,1550-1600,St. Paul de Loanda,Portugal,-8.80407,13.2333,1145
-1600,1550-1600,St. Paul de Loanda,Spain,-8.80407,13.2333,371
-1650,1600-1650,Cape Verde Islands,Portugal,16.54,-23.04,8002
-1650,1600-1650,Cape Verde Islands,Spain,16.54,-23.04,1400
-1650,1600-1650,Cacheu,France,12,-16.1667,179
-1650,1600-1650,Cacheu,Portugal,12,-16.1667,1059
-1650,1600-1650,Cacheu,Spain,12,-16.1667,413
-1650,1600-1650,Gambia,Great Britain,13.4432,-15.3101,607
-1650,1600-1650,Portuguese Guinea,Portugal,11,-10,9781
-1650,1600-1650,Portuguese Guinea,Spain,11,-10,7631
-1650,1600-1650,"Africa., port unspecified",Other,6.6111,20.9394,347
-1650,1600-1650,"Africa., port unspecified",Great Britain,6.6111,20.9394,1163
-1650,1600-1650,"Africa., port unspecified",Netherlands,6.6111,20.9394,3242
-1650,1600-1650,"Africa., port unspecified",Portugal,6.6111,20.9394,3426
-1650,1600-1650,"Africa., port unspecified",Spain,6.6111,20.9394,148
-1650,1600-1650,"Africa., port unspecified",USA,6.6111,20.9394,149
-1650,1600-1650,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,299
-1650,1600-1650,Gold Coast + Bight of Benin + Bight of Biafra,Netherlands,5.1761,-1.1233,2698
-1650,1600-1650,Accra,Netherlands,5.55,-0.02,213
-1650,1600-1650,"Bight of Benin, port unspecified",Netherlands,5,2.1,361
-1650,1600-1650,Ardra,Netherlands,6.379,2.451324,4785
-1650,1600-1650,Ardra,Portugal,6.379,2.451324,1612
-1650,1600-1650,Ardra,Spain,6.379,2.451324,1697
-1650,1600-1650,São Tomé,Netherlands,0.34523,6.7371,482
-1650,1600-1650,São Tomé,Portugal,0.34523,6.7371,6686
-1650,1600-1650,São Tomé,Spain,0.34523,6.7371,1209
-1650,1600-1650,Gulf of Guinea islands,Spain,1.6139,7.4057,256
-1650,1600-1650,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,1737
-1650,1600-1650,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Netherlands,2.833,8,1209
-1650,1600-1650,Calabar,Other,4.982,8.3345,643
-1650,1600-1650,Calabar,Great Britain,4.982,8.3345,3738
-1650,1600-1650,Calabar,Netherlands,4.982,8.3345,2794
-1650,1600-1650,Calabar,Portugal,4.982,8.3345,353
-1650,1600-1650,Calabar,Other,4.982,8.3345,260
-1650,1600-1650,River del Rey,Great Britain,4.5352,8.7426,743
-1650,1600-1650,River del Rey,Netherlands,4.5352,8.7426,140
-1650,1600-1650,Cap Lopez,Netherlands,-0.7726,8.7812,313
-1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,489
-1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,11984
-1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,6657
-1650,1600-1650,Loango,Netherlands,-4.4925,11.2558,139
-1650,1600-1650,Mpinda,Netherlands,-6.141,12.3521,411
-1650,1600-1650,St. Paul de Loanda,Other,-8.80407,13.2333,325
-1650,1600-1650,St. Paul de Loanda,Netherlands,-8.80407,13.2333,13387
-1650,1600-1650,St. Paul de Loanda,Portugal,-8.80407,13.2333,84841
-1650,1600-1650,St. Paul de Loanda,Spain,-8.80407,13.2333,6569
-1700,1650-1700,Cape Verde Islands,France,16.54,-23.04,591
-1700,1650-1700,Cape Verde Islands,Portugal,16.54,-23.04,0
-1700,1650-1700,Cape Verde Islands,Spain,16.54,-23.04,2475
-1700,1650-1700,Senegal,France,14.72,-17.47,4478
-1700,1650-1700,Arguim,Other,20.89894,-17.05258,339
-1700,1650-1700,Albreda,France,13.3378,-16.3861,316
-1700,1650-1700,Cacheu,Great Britain,12,-16.1667,171
-1700,1650-1700,Cacheu,Spain,12,-16.1667,200
-1700,1650-1700,Bissau,France,11.86113,-15.5859,632
-1700,1650-1700,Gambia,France,13.4432,-15.3101,150
-1700,1650-1700,Gambia,Great Britain,13.4432,-15.3101,12946
-1700,1650-1700,Gambia,Netherlands,13.4432,-15.3101,110
-1700,1650-1700,Sierra Leone estuary,Great Britain,8.48444,-13.23444,1760
-1700,1650-1700,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,77
-1700,1650-1700,Sherbro,Great Britain,7.31,-12.3,277
-1700,1650-1700,Cape Mount (Cape Grand Mount),France,7.133,-11.05,316
-1700,1650-1700,Sassandra,Spain,4.9513,-6.0918,145
-1700,1650-1700,Ivory Coast,France,7.54,-5.5471,180
-1700,1650-1700,Costa da Mina,Portugal,5.0827,-1.348,24729
-1700,1650-1700,Elmina,Great Britain,5.1053,-1.3421,145
-1700,1650-1700,Elmina,Netherlands,5.1053,-1.3421,747
-1700,1650-1700,Elmina,Portugal,5.1053,-1.3421,984
-1700,1650-1700,"Africa., port unspecified",Other,6.6111,20.9394,664
-1700,1650-1700,"Africa., port unspecified",France,6.6111,20.9394,8071
-1700,1650-1700,"Africa., port unspecified",Great Britain,6.6111,20.9394,73116
-1700,1650-1700,"Africa., port unspecified",Other,6.6111,20.9394,14110
-1700,1650-1700,"Africa., port unspecified",Netherlands,6.6111,20.9394,10141
-1700,1650-1700,"Africa., port unspecified",Portugal,6.6111,20.9394,3832
-1700,1650-1700,"Africa., port unspecified",Spain,6.6111,20.9394,3767
-1700,1650-1700,"Africa., port unspecified",USA,6.6111,20.9394,181
-1700,1650-1700,"Gold Coast, port unspecified",Other,5.1036,-1.2411,521
-1700,1650-1700,"Gold Coast, port unspecified",France,5.1036,-1.2411,696
-1700,1650-1700,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,23056
-1700,1650-1700,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,9144
-1700,1650-1700,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,406
-1700,1650-1700,"Gold Coast, port unspecified",USA,5.1036,-1.2411,143
-1700,1650-1700,Cape Coast Castle,Other,5.1,-1.24,290
-1700,1650-1700,Cape Coast Castle,Great Britain,5.1,-1.24,5729
-1700,1650-1700,Alampo,Great Britain,5.102,-1.2388,1024
-1700,1650-1700,Gold Coast from Kormatine to Accra,Portugal,5.1761,-1.1233,408
-1700,1650-1700,"Gold Coast, Fr. definition",France,5.1761,-1.1233,316
-1700,1650-1700,Danish Gold Coast,Other,5.5469,-0.1833,243
-1700,1650-1700,Danish Gold Coast,Other,5.5469,-0.1833,1422
-1700,1650-1700,Accra,Great Britain,5.55,-0.02,849
-1700,1650-1700,Keta,Great Britain,5.9031,0.9868,230
-1700,1650-1700,Little Popo,Other,6.2273,1.5814,506
-1700,1650-1700,Little Popo,Great Britain,6.2273,1.5814,404
-1700,1650-1700,Grand Popo,Netherlands,6.2639,1.7417,467
-1700,1650-1700,Popo,Netherlands,6.2833,1.833,563
-1700,1650-1700,Whydah,France,6.363,2.085,2369
-1700,1650-1700,Whydah,Great Britain,6.363,2.085,41307
-1700,1650-1700,Whydah,Other,6.363,2.085,2084
-1700,1650-1700,Whydah,Netherlands,6.363,2.085,3330
-1700,1650-1700,"Bight of Benin, port unspecified",France,5,2.1,1679
-1700,1650-1700,"Bight of Benin, port unspecified",Great Britain,5,2.1,1374
-1700,1650-1700,"Bight of Benin, port unspecified",Other,5,2.1,1796
-1700,1650-1700,"Bight of Benin, port unspecified",Netherlands,5,2.1,3632
-1700,1650-1700,"Bight of Benin, port unspecified",Portugal,5,2.1,408
-1700,1650-1700,Ardra,France,6.379,2.451324,997
-1700,1650-1700,Ardra,Great Britain,6.379,2.451324,20359
-1700,1650-1700,Ardra,Netherlands,6.379,2.451324,26258
-1700,1650-1700,Ardra,Portugal,6.379,2.451324,100
-1700,1650-1700,São Tomé,Portugal,0.34523,6.7371,2130
-1700,1650-1700,New Calabar,France,4.5502,6.9783,386
-1700,1650-1700,New Calabar,Great Britain,4.5502,6.9783,13309
-1700,1650-1700,New Calabar,Spain,4.5502,6.9783,104
-1700,1650-1700,Bonny,Great Britain,4.4142,7.1898,1782
-1700,1650-1700,Bonny,Netherlands,4.4142,7.1898,195
-1700,1650-1700,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,10424
-1700,1650-1700,Bights,Great Britain,2.8333,8,1015
-1700,1650-1700,Calabar,Great Britain,4.982,8.3345,20981
-1700,1650-1700,Calabar,Netherlands,4.982,8.3345,2007
-1700,1650-1700,Calabar,Portugal,4.982,8.3345,1040
-1700,1650-1700,River del Rey,Netherlands,4.5352,8.7426,422
-1700,1650-1700,Cap Lopez,Great Britain,-0.7726,8.7812,181
-1700,1650-1700,Corisco,Netherlands,0.9167,9.3167,804
-1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,23387
-1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,624
-1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,3183
-1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,586
-1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,2131
-1700,1650-1700,Loango,Great Britain,-4.4925,11.2558,94
-1700,1650-1700,Loango,Netherlands,-4.4925,11.2558,2463
-1700,1650-1700,Boary,Netherlands,-4.49257,11.25584,674
-1700,1650-1700,Gabon,Portugal,-0.8037,11.6094,408
-1700,1650-1700,Congo North,Netherlands,-4.769,11.866,26223
-1700,1650-1700,Malembo,France,-5.3384,12.1876,301
-1700,1650-1700,Malembo,Netherlands,-5.3384,12.1876,906
-1700,1650-1700,Cabinda,Great Britain,-5.57,12.2,2648
-1700,1650-1700,Mpinda,Netherlands,-6.141,12.3521,604
-1700,1650-1700,Soyo,USA,-6.141,12.3521,146
-1700,1650-1700,Congo River,Great Britain,-6.07,12.45,243
-1700,1650-1700,Congo River,Spain,-6.07,12.45,800
-1700,1650-1700,St. Paul de Loanda,Great Britain,-8.80407,13.2333,1376
-1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,7582
-1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,600
-1700,1650-1700,St. Paul de Loanda,Spain,-8.80407,13.2333,1100
-1700,1650-1700,Madagascar,Great Britain,-25.033,46.9833,6643
-1700,1650-1700,Madagascar,USA,-25.033,46.9833,1124
-1750,1700-1750,Windward Coast (Nunez - Assini),Netherlands,6.4281,-9.4295,459
-1750,1700-1750,"Windward Coast, port unspecified",France,6.4281,-9.4295,1131
-1750,1700-1750,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,3098
-1750,1700-1750,"Windward Coast, port unspecified",Netherlands,6.4281,-9.4295,914
-1750,1700-1750,"Windward Coast, port unspecified",USA,6.4281,-9.4295,159
-1750,1700-1750,Cape Verde Islands,Great Britain,16.54,-23.04,108
-1750,1700-1750,Cape Verde Islands,USA,16.54,-23.04,224
-1750,1700-1750,Senegal,France,14.72,-17.47,13854
-1750,1700-1750,Cacheu,Great Britain,12,-16.1667,500
-1750,1700-1750,Cacheu,Portugal,12,-16.1667,1315
-1750,1700-1750,Gallinhas,France,11.4667,-15.6833,177
-1750,1700-1750,Gallinhas,Great Britain,11.4667,-15.6833,666
-1750,1700-1750,Bissau,France,11.86113,-15.5859,168
-1750,1700-1750,Bissau,Great Britain,11.86113,-15.5859,331
-1750,1700-1750,Bissau,Portugal,11.86113,-15.5859,160
-1750,1700-1750,Gambia,France,13.4432,-15.3101,605
-1750,1700-1750,Gambia,Great Britain,13.4432,-15.3101,27659
-1750,1700-1750,Gambia,Netherlands,13.4432,-15.3101,309
-1750,1700-1750,Gambia,Portugal,13.4432,-15.3101,169
-1750,1700-1750,Gambia,USA,13.4432,-15.3101,1855
-1750,1700-1750,Sierra Leone estuary,France,8.48444,-13.23444,782
-1750,1700-1750,Sierra Leone estuary,Great Britain,8.48444,-13.23444,3925
-1750,1700-1750,Sierra Leone estuary,USA,8.48444,-13.23444,196
-1750,1700-1750,Banana Islands,France,8.1159,-13.2115,446
-1750,1700-1750,Banana Islands,Great Britain,8.1159,-13.2115,538
-1750,1700-1750,Banana Islands,USA,8.1159,-13.2115,96
-1750,1700-1750,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,786
-1750,1700-1750,Sherbro,France,7.31,-12.3,90
-1750,1700-1750,Sherbro,Great Britain,7.31,-12.3,962
-1750,1700-1750,Cape Mount (Cape Grand Mount),France,7.133,-11.05,213
-1750,1700-1750,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,666
-1750,1700-1750,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,134
-1750,1700-1750,Grand Mesurado,France,6.2945,-10.7452,804
-1750,1700-1750,Sassandra,France,4.9513,-6.0918,495
-1750,1700-1750,Ivory Coast,Great Britain,7.54,-5.5471,527
-1750,1700-1750,Cape Lahou,France,5.1365,-5.026,977
-1750,1700-1750,Cape Lahou,Great Britain,5.1365,-5.026,619
-1750,1700-1750,Cape Lahou,Netherlands,5.1365,-5.026,2137
-1750,1700-1750,Cape Lahou,Portugal,5.1365,-5.026,2502
-1750,1700-1750,Grand Bassam,France,5.2259,-3.7537,455
-1750,1700-1750,Grand Bassam,Great Britain,5.2259,-3.7537,172
-1750,1700-1750,Rio Assini,Portugal,5.1167,-3.2833,301
-1750,1700-1750,Axim,Netherlands,4.8665,-2.2409,1067
-1750,1700-1750,Pokesoe (formerly Gross Friedrichsburg),Other,4.7956,-2.134,247
-1750,1700-1750,Costa da Mina,France,5.0827,-1.348,367
-1750,1700-1750,Costa da Mina,Portugal,5.0827,-1.348,136217
-1750,1700-1750,Elmina,France,5.1053,-1.3421,1939
-1750,1700-1750,Elmina,Netherlands,5.1053,-1.3421,24672
-1750,1700-1750,Elmina,Portugal,5.1053,-1.3421,1067
-1750,1700-1750,"Africa., port unspecified",France,6.6111,20.9394,61529
-1750,1700-1750,"Africa., port unspecified",Great Britain,6.6111,20.9394,424170
-1750,1700-1750,"Africa., port unspecified",Other,6.6111,20.9394,2117
-1750,1700-1750,"Africa., port unspecified",Netherlands,6.6111,20.9394,18642
-1750,1700-1750,"Africa., port unspecified",Portugal,6.6111,20.9394,1676
-1750,1700-1750,"Africa., port unspecified",USA,6.6111,20.9394,18553
-1750,1700-1750,"Gold Coast, port unspecified",Other,5.1036,-1.2411,1763
-1750,1700-1750,"Gold Coast, port unspecified",France,5.1036,-1.2411,4421
-1750,1700-1750,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,76734
-1750,1700-1750,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,7545
-1750,1700-1750,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,235
-1750,1700-1750,"Gold Coast, port unspecified",USA,5.1036,-1.2411,1121
-1750,1700-1750,Cape Coast Castle,France,5.1,-1.24,1479
-1750,1700-1750,Cape Coast Castle,Great Britain,5.1,-1.24,28528
-1750,1700-1750,Cape Coast Castle,Portugal,5.1,-1.24,508
-1750,1700-1750,Cape Coast Castle,USA,5.1,-1.24,149
-1750,1700-1750,Alampo,Great Britain,5.102,-1.2388,590
-1750,1700-1750,"Anomabu, Adja, Agga",France,5.1761,-1.1233,14416
-1750,1700-1750,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,25340
-1750,1700-1750,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,1166
-1750,1700-1750,"Gold Coast, Fr. definition",France,5.1761,-1.1233,2372
-1750,1700-1750,Windward + Ivory + Gold +  Benin,France,5.1761,-1.1233,2238
-1750,1700-1750,Windward + Ivory + Gold +  Benin,Great Britain,5.1761,-1.1233,2734
-1750,1700-1750,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,6232
-1750,1700-1750,Christiansborg,Other,5.5469,-0.1833,4924
-1750,1700-1750,Accra,France,5.55,-0.02,981
-1750,1700-1750,Accra,Great Britain,5.55,-0.02,233
-1750,1700-1750,Accra,Netherlands,5.55,-0.02,2014
-1750,1700-1750,Keta,France,5.9031,0.9868,611
-1750,1700-1750,Keta,Great Britain,5.9031,0.9868,372
-1750,1700-1750,Keta,Netherlands,5.9031,0.9868,467
-1750,1700-1750,Little Popo,France,6.2273,1.5814,10716
-1750,1700-1750,Little Popo,Great Britain,6.2273,1.5814,102
-1750,1700-1750,Grand Popo,France,6.2639,1.7417,765
-1750,1700-1750,Popo,France,6.2833,1.833,1638
-1750,1700-1750,Whydah,Other,6.363,2.085,373
-1750,1700-1750,Whydah,France,6.363,2.085,93781
-1750,1700-1750,Whydah,Great Britain,6.363,2.085,52066
-1750,1700-1750,Whydah,Netherlands,6.363,2.085,26888
-1750,1700-1750,Whydah,Portugal,6.363,2.085,5239
-1750,1700-1750,"Bight of Benin, port unspecified",Other,5,2.1,1175
-1750,1700-1750,"Bight of Benin, port unspecified",France,5,2.1,7426
-1750,1700-1750,"Bight of Benin, port unspecified",Great Britain,5,2.1,2421
-1750,1700-1750,"Bight of Benin, port unspecified",Netherlands,5,2.1,1969
-1750,1700-1750,"Bight of Benin, port unspecified",Portugal,5,2.1,855
-1750,1700-1750,Benin,France,6.379,2.4513,863
-1750,1700-1750,Benin,Great Britain,6.379,2.4513,3145
-1750,1700-1750,Ardra,France,6.379,2.451324,91
-1750,1700-1750,Ardra,Netherlands,6.379,2.451324,1278
-1750,1700-1750,Badagry,France,6.415,2.88,3827
-1750,1700-1750,Badagry,Netherlands,6.415,2.88,5159
-1750,1700-1750,Epe,France,6.6055,3.947,9503
-1750,1700-1750,Epe,Great Britain,6.6055,3.947,661
-1750,1700-1750,Epe,Portugal,6.6055,3.947,816
-1750,1700-1750,São Tomé,Great Britain,0.34523,6.7371,542
-1750,1700-1750,São Tomé,Portugal,0.34523,6.7371,3208
-1750,1700-1750,New Calabar,France,4.5502,6.9783,276
-1750,1700-1750,New Calabar,Great Britain,4.5502,6.9783,3261
-1750,1700-1750,Bonny,France,4.4142,7.1898,1494
-1750,1700-1750,Bonny,Great Britain,4.4142,7.1898,37087
-1750,1700-1750,Bonny,USA,4.4142,7.1898,292
-1750,1700-1750,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,471
-1750,1700-1750,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,10292
-1750,1700-1750,Bights,Great Britain,2.8333,8,179
-1750,1700-1750,Calabar,France,4.982,8.3345,2769
-1750,1700-1750,Calabar,Great Britain,4.982,8.3345,43787
-1750,1700-1750,Calabar,Other,4.982,8.3345,56
-1750,1700-1750,Calabar,Netherlands,4.982,8.3345,460
-1750,1700-1750,Calabar,Portugal,4.982,8.3345,5228
-1750,1700-1750,Cap Lopez,France,-0.7726,8.7812,579
-1750,1700-1750,Cap Lopez,Great Britain,-0.7726,8.7812,276
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,370
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,23025
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,51941
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,455
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,688
-1750,1700-1750,Mayumba,Great Britain,-3.4259,10.6567,546
-1750,1700-1750,Loango,France,-4.4925,11.2558,18232
-1750,1700-1750,Loango,Great Britain,-4.4925,11.2558,9456
-1750,1700-1750,Loango,Netherlands,-4.4925,11.2558,4352
-1750,1700-1750,Loango,USA,-4.4925,11.2558,257
-1750,1700-1750,Boary,Netherlands,-4.49257,11.25584,2367
-1750,1700-1750,Gabon,France,-0.8037,11.6094,1059
-1750,1700-1750,Gabon,Netherlands,-0.8037,11.6094,10
-1750,1700-1750,Congo North,France,-4.769,11.866,1212
-1750,1700-1750,Congo North,Netherlands,-4.769,11.866,24795
-1750,1700-1750,Malembo,France,-5.3384,12.1876,6525
-1750,1700-1750,Malembo,Great Britain,-5.3384,12.1876,7765
-1750,1700-1750,Malembo,Netherlands,-5.3384,12.1876,4245
-1750,1700-1750,Cabinda,France,-5.57,12.2,19930
-1750,1700-1750,Cabinda,Great Britain,-5.57,12.2,19976
-1750,1700-1750,Cabinda,Netherlands,-5.57,12.2,609
-1750,1700-1750,Congo River,France,-6.07,12.45,198
-1750,1700-1750,Congo River,Great Britain,-6.07,12.45,170
-1750,1700-1750,St. Paul de Loanda,France,-8.80407,13.2333,801
-1750,1700-1750,St. Paul de Loanda,Portugal,-8.80407,13.2333,168365
-1750,1700-1750,Benguela,Portugal,-12.59,13.42,3798
-1750,1700-1750,Madeira,Great Britain,32.76,16.96,414
-1750,1700-1750,Chama,France,-11.2167,33.1605,271
-1750,1700-1750,Galam,France,32.4612,35.0211,100
-1750,1700-1750,"Southeast Africa and Indian Ocean islands, port unspecified",Great Britain,-18.7669,46.8691,59
-1750,1700-1750,Madagascar,Other,-25.033,46.9833,42
-1750,1700-1750,Madagascar,France,-25.033,46.9833,772
-1750,1700-1750,Madagascar,Great Britain,-25.033,46.9833,5771
-1750,1700-1750,St. Paul,France,-21.0453,55.3365,196
-1800,1750-1800,C.C. Castle and Windward,USA,6.4281,-9.4295,167
-1800,1750-1800,Windward Coast (Nunez - Assini),Great Britain,6.4281,-9.4295,16525
-1800,1750-1800,"Windward Coast, port unspecified",France,6.4281,-9.4295,2058
-1800,1750-1800,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,67566
-1800,1750-1800,"Windward Coast, port unspecified",Netherlands,6.4281,-9.4295,3328
-1800,1750-1800,"Windward Coast, port unspecified",USA,6.4281,-9.4295,678
-1800,1750-1800,Cape Verde Islands,Portugal,16.54,-23.04,176
-1800,1750-1800,Cape Verde Islands,USA,16.54,-23.04,45
-1800,1750-1800,Senegal,France,14.72,-17.47,11657
-1800,1750-1800,Senegal,Great Britain,14.72,-17.47,21339
-1800,1750-1800,Senegal,USA,14.72,-17.47,1285
-1800,1750-1800,"Joal, or Saloum River",France,14.1812,-16.8503,17
-1800,1750-1800,Albreda,France,13.3378,-16.3861,154
-1800,1750-1800,Cacheu,France,12,-16.1667,617
-1800,1750-1800,Cacheu,Great Britain,12,-16.1667,351
-1800,1750-1800,Cacheu,Portugal,12,-16.1667,13004
-1800,1750-1800,Cacheu,USA,12,-16.1667,40
-1800,1750-1800,Bissagos,France,11.25,-16.083,250
-1800,1750-1800,Bissagos,Great Britain,11.25,-16.083,277
-1800,1750-1800,Gallinhas,Great Britain,11.4667,-15.6833,1541
-1800,1750-1800,Bissau,France,11.86113,-15.5859,679
-1800,1750-1800,Bissau,Portugal,11.86113,-15.5859,15451
-1800,1750-1800,Casamance,Other,13.0153,-15.3177,326
-1800,1750-1800,Casamance,France,13.0153,-15.3177,53
-1800,1750-1800,Casamance,Great Britain,13.0153,-15.3177,110
-1800,1750-1800,Gambia,France,13.4432,-15.3101,2301
-1800,1750-1800,Gambia,Great Britain,13.4432,-15.3101,56455
-1800,1750-1800,Gambia,Spain,13.4432,-15.3101,0
-1800,1750-1800,Gambia,USA,13.4432,-15.3101,2439
-1800,1750-1800,Rio Nunez,Great Britain,10.833,-14.533,1391
-1800,1750-1800,Rio Nunez,USA,10.833,-14.533,594
-1800,1750-1800,Rio Pongo,Great Britain,10.05,-14.065,622
-1800,1750-1800,Rio Pongo,USA,10.05,-14.065,99
-1800,1750-1800,Iles de Los,France,9.4769,-13.7855,11945
-1800,1750-1800,Iles de Los,Great Britain,9.4769,-13.7855,24747
-1800,1750-1800,Iles de Los,USA,9.4769,-13.7855,2367
-1800,1750-1800,Scarcies,France,8.48444,-13.23444,157
-1800,1750-1800,Sierra Leone estuary,Other,8.48444,-13.23444,1255
-1800,1750-1800,Sierra Leone estuary,France,8.48444,-13.23444,9497
-1800,1750-1800,Sierra Leone estuary,Great Britain,8.48444,-13.23444,53618
-1800,1750-1800,Sierra Leone estuary,Netherlands,8.48444,-13.23444,328
-1800,1750-1800,Sierra Leone estuary,Portugal,8.48444,-13.23444,40
-1800,1750-1800,Sierra Leone estuary,USA,8.48444,-13.23444,3318
-1800,1750-1800,Banana Islands,France,8.1159,-13.2115,572
-1800,1750-1800,Banana Islands,Great Britain,8.1159,-13.2115,3588
-1800,1750-1800,Banana Islands,USA,8.1159,-13.2115,511
-1800,1750-1800,Bance Island (Ben's Island),France,8.5667,-13.033,1133
-1800,1750-1800,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,9526
-1800,1750-1800,Bance Island (Ben's Island),Netherlands,8.5667,-13.033,553
-1800,1750-1800,Bance Island (Ben's Island),USA,8.5667,-13.033,562
-1800,1750-1800,"Sierra Leone, port unspecified",France,8.57,-13.03,88
-1800,1750-1800,"Sierra Leone, port unspecified",Great Britain,8.57,-13.03,922
-1800,1750-1800,"Sierra Leone, port unspecified",USA,8.57,-13.03,214
-1800,1750-1800,Sherbro,Great Britain,7.31,-12.3,2732
-1800,1750-1800,Sherbro,USA,7.31,-12.3,268
-1800,1750-1800,Mano,Great Britain,6.9295,-11.5007,574
-1800,1750-1800,Cape Mount (Cape Grand Mount),France,7.133,-11.05,2201
-1800,1750-1800,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,29004
-1800,1750-1800,Cape Mount (Cape Grand Mount),Netherlands,7.133,-11.05,1035
-1800,1750-1800,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,307
-1800,1750-1800,Grand Mesurado,France,6.2945,-10.7452,629
-1800,1750-1800,Grand Mesurado,Great Britain,6.2945,-10.7452,919
-1800,1750-1800,"Lagos, Onim",France,6.5244,3.3792,4709
-1800,1750-1800,"Lagos, Onim",Great Britain,6.5244,3.3792,6480
-1800,1750-1800,"Lagos, Onim",Portugal,6.5244,3.3792,1994
-1800,1750-1800,Garroway Roads,Great Britain,4.56,-7.91571,148
-1800,1750-1800,Tabou,Great Britain,5.1012,-7.3517,358
-1800,1750-1800,Ivory Coast,Netherlands,7.54,-5.5471,318
-1800,1750-1800,Cape Lahou,France,5.1365,-5.026,676
-1800,1750-1800,Cape Lahou,Great Britain,5.1365,-5.026,514
-1800,1750-1800,Cape Lahou,Netherlands,5.1365,-5.026,18381
-1800,1750-1800,Grand Bassam,Great Britain,5.2259,-3.7537,101
-1800,1750-1800,Apollonia,Great Britain,4.9885,-2.5904,352
-1800,1750-1800,Axim,Netherlands,4.8665,-2.2409,496
-1800,1750-1800,Costa da Mina,Portugal,5.0827,-1.348,138292
-1800,1750-1800,Elmina,Other,5.1053,-1.3421,160
-1800,1750-1800,Elmina,France,5.1053,-1.3421,317
-1800,1750-1800,Elmina,Great Britain,5.1053,-1.3421,305
-1800,1750-1800,Elmina,Netherlands,5.1053,-1.3421,18969
-1800,1750-1800,Elmina,Portugal,5.1053,-1.3421,517
-1800,1750-1800,Elmina,USA,5.1053,-1.3421,224
-1800,1750-1800,"Africa., port unspecified",Other,6.6111,20.9394,16301
-1800,1750-1800,"Africa., port unspecified",France,6.6111,20.9394,42450
-1800,1750-1800,"Africa., port unspecified",Great Britain,6.6111,20.9394,165010
-1800,1750-1800,"Africa., port unspecified",Netherlands,6.6111,20.9394,11131
-1800,1750-1800,"Africa., port unspecified",Portugal,6.6111,20.9394,862
-1800,1750-1800,"Africa., port unspecified",Spain,6.6111,20.9394,1046
-1800,1750-1800,"Africa., port unspecified",Other,6.6111,20.9394,380
-1800,1750-1800,"Africa., port unspecified",USA,6.6111,20.9394,43062
-1800,1750-1800,"Gold Coast, port unspecified",Other,5.1036,-1.2411,7352
-1800,1750-1800,"Gold Coast, port unspecified",France,5.1036,-1.2411,2993
-1800,1750-1800,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,86326
-1800,1750-1800,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,8153
-1800,1750-1800,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,57
-1800,1750-1800,"Gold Coast, port unspecified",USA,5.1036,-1.2411,11915
-1800,1750-1800,Cape Coast Castle,France,5.1,-1.24,1536
-1800,1750-1800,Cape Coast Castle,Great Britain,5.1,-1.24,54063
-1800,1750-1800,Cape Coast Castle,Netherlands,5.1,-1.24,313
-1800,1750-1800,Cape Coast Castle,Portugal,5.1,-1.24,214
-1800,1750-1800,Cape Coast Castle,Other,5.1,-1.24,130
-1800,1750-1800,Cape Coast Castle,USA,5.1,-1.24,10766
-1800,1750-1800,"Anomabu, Adja, Agga",Other,5.1761,-1.1233,350
-1800,1750-1800,"Anomabu, Adja, Agga",France,5.1761,-1.1233,3777
-1800,1750-1800,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,98411
-1800,1750-1800,"Anomabu, Adja, Agga",Netherlands,5.1761,-1.1233,1940
-1800,1750-1800,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,12999
-1800,1750-1800,Gold Coast + Bight of Benin + Bight of Biafra,France,5.1761,-1.1233,333
-1800,1750-1800,"Gold Coast, Fr. definition",France,5.1761,-1.1233,52879
-1800,1750-1800,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,581
-1800,1750-1800,Windward + Ivory + Gold +  Benin,Other,5.1761,-1.1233,663
-1800,1750-1800,Windward + Ivory + Gold +  Benin,Great Britain,5.1761,-1.1233,2600
-1800,1750-1800,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,38934
-1800,1750-1800,Christiansborg,Other,5.5469,-0.1833,8300
-1800,1750-1800,Christiansborg,France,5.5469,-0.1833,440
-1800,1750-1800,Christiansborg,USA,5.5469,-0.1833,156
-1800,1750-1800,Danish Gold Coast,Other,5.5469,-0.1833,7581
-1800,1750-1800,Danish Gold Coast,Great Britain,5.5469,-0.1833,144
-1800,1750-1800,Accra,Other,5.55,-0.02,2182
-1800,1750-1800,Accra,France,5.55,-0.02,4772
-1800,1750-1800,Accra,Great Britain,5.55,-0.02,1088
-1800,1750-1800,Keta,France,5.9031,0.9868,107
-1800,1750-1800,Little Popo,France,6.2273,1.5814,1690
-1800,1750-1800,Little Popo,Netherlands,6.2273,1.5814,247
-1800,1750-1800,Popo,Great Britain,6.2833,1.833,9376
-1800,1750-1800,Popo,Netherlands,6.2833,1.833,381
-1800,1750-1800,Popo,USA,6.2833,1.833,56
-1800,1750-1800,Whydah,France,6.363,2.085,50197
-1800,1750-1800,Whydah,Great Britain,6.363,2.085,25060
-1800,1750-1800,Whydah,Netherlands,6.363,2.085,798
-1800,1750-1800,Whydah,Portugal,6.363,2.085,23669
-1800,1750-1800,Whydah,USA,6.363,2.085,383
-1800,1750-1800,"Bight of Benin, port unspecified",Other,5,2.1,73
-1800,1750-1800,"Bight of Benin, port unspecified",France,5,2.1,10254
-1800,1750-1800,"Bight of Benin, port unspecified",Great Britain,5,2.1,11518
-1800,1750-1800,"Bight of Benin, port unspecified",Netherlands,5,2.1,351
-1800,1750-1800,"Bight of Benin, port unspecified",Portugal,5,2.1,2455
-1800,1750-1800,"Bight of Benin, port unspecified",USA,5,2.1,162
-1800,1750-1800,Benin,France,6.379,2.4513,4837
-1800,1750-1800,Benin,Great Britain,6.379,2.4513,24355
-1800,1750-1800,Benin,Portugal,6.379,2.4513,271
-1800,1750-1800,Ardra,France,6.379,2.451324,2034
-1800,1750-1800,Ardra,Portugal,6.379,2.451324,353
-1800,1750-1800,Porto Novo,France,6.4969,2.6289,31286
-1800,1750-1800,Porto Novo,Great Britain,6.4969,2.6289,3779
-1800,1750-1800,Porto Novo,Portugal,6.4969,2.6289,9850
-1800,1750-1800,Badagry,France,6.415,2.88,18638
-1800,1750-1800,Badagry,Great Britain,6.415,2.88,636
-1800,1750-1800,Badagry,Portugal,6.415,2.88,6900
-1800,1750-1800,Epe,France,6.6055,3.947,6488
-1800,1750-1800,Epe,Portugal,6.6055,3.947,5484
-1800,1750-1800,Iles Plantain,Great Britain,0.255436,6.602781,345
-1800,1750-1800,São Tomé,Portugal,0.34523,6.7371,1778
-1800,1750-1800,São Tomé,Spain,0.34523,6.7371,97
-1800,1750-1800,São Tomé or Princes Island,Portugal,0.34523,6.7371,475
-1800,1750-1800,New Calabar,France,4.5502,6.9783,276
-1800,1750-1800,New Calabar,Great Britain,4.5502,6.9783,53444
-1800,1750-1800,Bassa,France,7.7702,7.0498,118
-1800,1750-1800,Bassa,Great Britain,7.7702,7.0498,23327
-1800,1750-1800,Bonny,France,4.4142,7.1898,9648
-1800,1750-1800,Bonny,Great Britain,4.4142,7.1898,268617
-1800,1750-1800,Bonny,Spain,4.4142,7.1898,230
-1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,6998
-1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,38450
-1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Netherlands,2.833,8,200
-1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Portugal,2.833,8,545
-1800,1750-1800,Bights,Great Britain,2.8333,8,267
-1800,1750-1800,Calabar,France,4.982,8.3345,21593
-1800,1750-1800,Calabar,Great Britain,4.982,8.3345,109246
-1800,1750-1800,River del Rey,Great Britain,4.5352,8.7426,270
-1800,1750-1800,Fernando Po,Spain,3.6198,8.7481,29
-1800,1750-1800,Cap Lopez,France,-0.7726,8.7812,1020
-1800,1750-1800,Cap Lopez,Great Britain,-0.7726,8.7812,849
-1800,1750-1800,Bimbia,Great Britain,4.066,9.4,1124
-1800,1750-1800,Cameroons,Great Britain,4.0449,9.6855,22300
-1800,1750-1800,Cameroons,USA,4.0449,9.6855,45
-1800,1750-1800,Cameroons River,Great Britain,4.0833,9.7,3010
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,172540
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,127018
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,593
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,663
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1324
-1800,1750-1800,Mayumba,France,-3.4259,10.6567,690
-1800,1750-1800,Mayumba,Great Britain,-3.4259,10.6567,331
-1800,1750-1800,Mayumba,Spain,-3.4259,10.6567,350
-1800,1750-1800,Loango,France,-4.4925,11.2558,36361
-1800,1750-1800,Loango,Great Britain,-4.4925,11.2558,8355
-1800,1750-1800,Loango,Netherlands,-4.4925,11.2558,1353
-1800,1750-1800,Boary,Netherlands,-4.49257,11.25584,1779
-1800,1750-1800,Gabon,France,-0.8037,11.6094,6940
-1800,1750-1800,Gabon,Great Britain,-0.8037,11.6094,8820
-1800,1750-1800,Gabon,Netherlands,-0.8037,11.6094,1048
-1800,1750-1800,Gabon,Other,-0.8037,11.6094,109
-1800,1750-1800,Gabon,USA,-0.8037,11.6094,333
-1800,1750-1800,Congo North,Other,-4.769,11.866,100
-1800,1750-1800,Congo North,France,-4.769,11.866,914
-1800,1750-1800,Congo North,Great Britain,-4.769,11.866,712
-1800,1750-1800,Congo North,Netherlands,-4.769,11.866,26490
-1800,1750-1800,Malembo,France,-5.3384,12.1876,71309
-1800,1750-1800,Malembo,Great Britain,-5.3384,12.1876,14486
-1800,1750-1800,Malembo,Netherlands,-5.3384,12.1876,18768
-1800,1750-1800,Malembo,Spain,-5.3384,12.1876,300
-1800,1750-1800,Cabinda,France,-5.57,12.2,36024
-1800,1750-1800,Cabinda,Great Britain,-5.57,12.2,5750
-1800,1750-1800,Cabinda,Netherlands,-5.57,12.2,5589
-1800,1750-1800,Cabinda,Portugal,-5.57,12.2,1251
-1800,1750-1800,Congo River,France,-6.07,12.45,1653
-1800,1750-1800,Congo River,Great Britain,-6.07,12.45,13859
-1800,1750-1800,Ambriz,France,-7.8499,13.1167,3171
-1800,1750-1800,Ambriz,Great Britain,-7.8499,13.1167,11624
-1800,1750-1800,St. Paul de Loanda,Portugal,-8.80407,13.2333,212738
-1800,1750-1800,Benguela,France,-12.59,13.42,331
-1800,1750-1800,Benguela,Portugal,-12.59,13.42,44351
-1800,1750-1800,Benguela,Spain,-12.59,13.42,541
-1800,1750-1800,Cape of Good Hope,Spain,-34.21,18.28,258
-1800,1750-1800,Quaqua,Great Britain,-28.5011,28.7719,175
-1800,1750-1800,Lourenço Marques,France,-25.9692,32.5732,386
-1800,1750-1800,Delagoa,Great Britain,-26.0828,32.7633,453
-1800,1750-1800,Sofala,Great Britain,-19,34.75,352
-1800,1750-1800,Galam,Great Britain,32.4612,35.0211,291
-1800,1750-1800,Galam,Portugal,32.4612,35.0211,297
-1800,1750-1800,Galam,USA,32.4612,35.0211,155
-1800,1750-1800,Mozambique,France,-17.74087,35.3777,26242
-1800,1750-1800,Mozambique,Portugal,-17.74087,35.3777,4838
-1800,1750-1800,Mozambique,Spain,-17.74087,35.3777,1321
-1800,1750-1800,Mozambique,USA,-17.74087,35.3777,1397
-1800,1750-1800,Quilimane,Portugal,-17.85,36.92,201
-1800,1750-1800,Dembia,Great Britain,12.4099,37.2544,147
-1800,1750-1800,Momboza or Zanzibar,France,-6.1563,39.1927,476
-1800,1750-1800,Kilwa,France,-8.9659,39.4971,4086
-1800,1750-1800,Ibo,France,-12.3448,40.5891,820
-1800,1750-1800,Quirimba,France,-12.4264,40.6069,504
-1800,1750-1800,"Southeast Africa and Indian Ocean islands, port unspecified",France,-18.7669,46.8691,2957
-1800,1750-1800,"Southeast Africa and Indian Ocean islands, port unspecified",Spain,-18.7669,46.8691,28
-1800,1750-1800,St. Paul,Great Britain,-21.0453,55.3365,287
-1800,1750-1800,Mascarene Islands,France,-20.7167,56.6167,696
-1800,1750-1800,Mauritius (Ile de France),France,-20.3484,57.5522,92
-1850,1800-1850,Côte de Malaguette (runs through to Cape Palmas on Windward Coast),France,6.4281,-9.4295,542
-1850,1800-1850,Windward Coast (Nunez - Assini),Great Britain,6.4281,-9.4295,6577
-1850,1800-1850,Windward Coast (Nunez - Assini),USA,6.4281,-9.4295,629
-1850,1800-1850,"Windward Coast, port unspecified",Other,6.4281,-9.4295,120
-1850,1800-1850,"Windward Coast, port unspecified",France,6.4281,-9.4295,183
-1850,1800-1850,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,2475
-1850,1800-1850,"Windward Coast, port unspecified",Portugal,6.4281,-9.4295,331
-1850,1800-1850,"Windward Coast, port unspecified",Spain,6.4281,-9.4295,859
-1850,1800-1850,"Windward Coast, port unspecified",USA,6.4281,-9.4295,438
-1850,1800-1850,Cape Verde Islands,Other,16.54,-23.04,490
-1850,1800-1850,Cape Verde Islands,France,16.54,-23.04,1134
-1850,1800-1850,Cape Verde Islands,Portugal,16.54,-23.04,2548
-1850,1800-1850,Cape Verde Islands,Spain,16.54,-23.04,596
-1850,1800-1850,Senegal,Other,14.72,-17.47,1071
-1850,1800-1850,Senegal,France,14.72,-17.47,5783
-1850,1800-1850,Senegal,Other,14.72,-17.47,858
-1850,1800-1850,Senegal,Portugal,14.72,-17.47,242
-1850,1800-1850,Senegal,Spain,14.72,-17.47,163
-1850,1800-1850,Senegal,Other,14.72,-17.47,103
-1850,1800-1850,Senegal,USA,14.72,-17.47,1648
-1850,1800-1850,French Africa (Goree or Senegal),Other,14.6679,-17.3989,168
-1850,1800-1850,French Africa (Goree or Senegal),USA,14.6679,-17.3989,80
-1850,1800-1850,Cacheu,Other,12,-16.1667,148
-1850,1800-1850,Cacheu,Great Britain,12,-16.1667,237
-1850,1800-1850,Cacheu,Portugal,12,-16.1667,5327
-1850,1800-1850,Bissagos,France,11.25,-16.083,837
-1850,1800-1850,Gallinhas,Other,11.4667,-15.6833,3408
-1850,1800-1850,Gallinhas,France,11.4667,-15.6833,10603
-1850,1800-1850,Gallinhas,Great Britain,11.4667,-15.6833,1632
-1850,1800-1850,Gallinhas,Netherlands,11.4667,-15.6833,180
-1850,1800-1850,Gallinhas,Portugal,11.4667,-15.6833,4397
-1850,1800-1850,Gallinhas,Spain,11.4667,-15.6833,11053
-1850,1800-1850,Gallinhas,USA,11.4667,-15.6833,3712
-1850,1800-1850,Bissau,Other,11.86113,-15.5859,895
-1850,1800-1850,Bissau,France,11.86113,-15.5859,215
-1850,1800-1850,Bissau,Portugal,11.86113,-15.5859,7210
-1850,1800-1850,Bissau,Spain,11.86113,-15.5859,1442
-1850,1800-1850,Casamance,France,13.0153,-15.3177,350
-1850,1800-1850,Gambia,Other,13.4432,-15.3101,82
-1850,1800-1850,Gambia,France,13.4432,-15.3101,179
-1850,1800-1850,Gambia,Great Britain,13.4432,-15.3101,1446
-1850,1800-1850,Gambia,Other,13.4432,-15.3101,255
-1850,1800-1850,Gambia,Portugal,13.4432,-15.3101,95
-1850,1800-1850,Gambia,Spain,13.4432,-15.3101,1031
-1850,1800-1850,Gambia,USA,13.4432,-15.3101,2795
-1850,1800-1850,Rio Nunez,Great Britain,10.833,-14.533,772
-1850,1800-1850,Rio Nunez,Portugal,10.833,-14.533,85
-1850,1800-1850,Rio Nunez,Spain,10.833,-14.533,856
-1850,1800-1850,Rio Pongo,Other,10.05,-14.065,513
-1850,1800-1850,Rio Pongo,Other,10.05,-14.065,464
-1850,1800-1850,Rio Pongo,France,10.05,-14.065,902
-1850,1800-1850,Rio Pongo,Great Britain,10.05,-14.065,3020
-1850,1800-1850,Rio Pongo,Portugal,10.05,-14.065,1342
-1850,1800-1850,Rio Pongo,Spain,10.05,-14.065,4161
-1850,1800-1850,Rio Pongo,USA,10.05,-14.065,4334
-1850,1800-1850,Iles de Los,France,9.4769,-13.7855,278
-1850,1800-1850,Iles de Los,Great Britain,9.4769,-13.7855,513
-1850,1800-1850,Iles de Los,USA,9.4769,-13.7855,3416
-1850,1800-1850,Sierra Leone estuary,Great Britain,8.48444,-13.23444,5448
-1850,1800-1850,Sierra Leone estuary,USA,8.48444,-13.23444,1323
-1850,1800-1850,Senegambia or Sierra Leone,Great Britain,8.4844,-13.2344,541
-1850,1800-1850,Senegambia or Sierra Leone,Spain,8.4844,-13.2344,284
-1850,1800-1850,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,2133
-1850,1800-1850,Bance Island (Ben's Island),Other,8.5667,-13.033,100
-1850,1800-1850,"Sierra Leone, port unspecified",Other,8.57,-13.03,716
-1850,1800-1850,"Sierra Leone, port unspecified",France,8.57,-13.03,1737
-1850,1800-1850,"Sierra Leone, port unspecified",Netherlands,8.57,-13.03,32
-1850,1800-1850,"Sierra Leone, port unspecified",Portugal,8.57,-13.03,521
-1850,1800-1850,"Sierra Leone, port unspecified",Spain,8.57,-13.03,1744
-1850,1800-1850,"Sierra Leone, port unspecified",USA,8.57,-13.03,295
-1850,1800-1850,Sherbro,France,7.31,-12.3,2567
-1850,1800-1850,Sherbro,Portugal,7.31,-12.3,1644
-1850,1800-1850,Sherbro,Spain,7.31,-12.3,1382
-1850,1800-1850,Sherbro,USA,7.31,-12.3,361
-1850,1800-1850,Cape Mount (Cape Grand Mount),France,7.133,-11.05,1229
-1850,1800-1850,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,3802
-1850,1800-1850,Cape Mount (Cape Grand Mount),Netherlands,7.133,-11.05,150
-1850,1800-1850,Cape Mount (Cape Grand Mount),Spain,7.133,-11.05,422
-1850,1800-1850,Cape Mount (Cape Grand Mount),Other,7.133,-11.05,87
-1850,1800-1850,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,1962
-1850,1800-1850,Grand Mesurado,France,6.2945,-10.7452,1413
-1850,1800-1850,Grand Mesurado,Great Britain,6.2945,-10.7452,810
-1850,1800-1850,Grand Mesurado,Spain,6.2945,-10.7452,162
-1850,1800-1850,Little Bassa,Spain,6.025,-10.2099,187
-1850,1800-1850,Trade Town,Spain,5.7844,-9.8463,13
-1850,1800-1850,Grand Bassa,France,6.233,-9.833,552
-1850,1800-1850,Grand Bassa,Portugal,6.233,-9.833,325
-1850,1800-1850,Grand Bassa,Spain,6.233,-9.833,222
-1850,1800-1850,"Lagos, Onim",Other,6.5244,3.3792,24567
-1850,1800-1850,"Lagos, Onim",France,6.5244,3.3792,911
-1850,1800-1850,"Lagos, Onim",Great Britain,6.5244,3.3792,6642
-1850,1800-1850,"Lagos, Onim",Portugal,6.5244,3.3792,20703
-1850,1800-1850,"Lagos, Onim",Spain,6.5244,3.3792,6220
-1850,1800-1850,"Lagos, Onim",USA,6.5244,3.3792,2095
-1850,1800-1850,Cape Lahou,France,5.1365,-5.026,105
-1850,1800-1850,Cape Lahou,Great Britain,5.1365,-5.026,346
-1850,1800-1850,Cape Lahou,Netherlands,5.1365,-5.026,582
-1850,1800-1850,Cape Lahou,Portugal,5.1365,-5.026,19
-1850,1800-1850,Costa da Mina,Other,5.0827,-1.348,1878
-1850,1800-1850,Costa da Mina,Portugal,5.0827,-1.348,63140
-1850,1800-1850,Costa da Mina,Spain,5.0827,-1.348,1507
-1850,1800-1850,Elmina,Great Britain,5.1053,-1.3421,304
-1850,1800-1850,Elmina,Portugal,5.1053,-1.3421,131
-1850,1800-1850,Elmina,USA,5.1053,-1.3421,424
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,411
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,59020
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,8092
-1850,1800-1850,"Africa., port unspecified",France,6.6111,20.9394,81818
-1850,1800-1850,"Africa., port unspecified",Great Britain,6.6111,20.9394,49861
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,149
-1850,1800-1850,"Africa., port unspecified",Netherlands,6.6111,20.9394,1326
-1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,73314
-1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,1067
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,340
-1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,255647
-1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,2372
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,647
-1850,1800-1850,"Africa., port unspecified",USA,6.6111,20.9394,34036
-1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,567
-1850,1800-1850,"Gold Coast, port unspecified",Other,5.1036,-1.2411,273
-1850,1800-1850,"Gold Coast, port unspecified",France,5.1036,-1.2411,376
-1850,1800-1850,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,28717
-1850,1800-1850,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,1567
-1850,1800-1850,"Gold Coast, port unspecified",Spain,5.1036,-1.2411,808
-1850,1800-1850,"Gold Coast, port unspecified",USA,5.1036,-1.2411,5927
-1850,1800-1850,Cape Coast Castle,Great Britain,5.1,-1.24,8000
-1850,1800-1850,Cape Coast Castle,USA,5.1,-1.24,1188
-1850,1800-1850,"Anomabu, Adja, Agga",Other,5.1761,-1.1233,364
-1850,1800-1850,"Anomabu, Adja, Agga",France,5.1761,-1.1233,385
-1850,1800-1850,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,1300
-1850,1800-1850,"Anomabu, Adja, Agga",Spain,5.1761,-1.1233,367
-1850,1800-1850,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,317
-1850,1800-1850,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,530
-1850,1800-1850,Windward + Ivory + Gold +  Benin,France,5.1761,-1.1233,164
-1850,1800-1850,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,95
-1850,1800-1850,Windward + Ivory + Gold +  Benin,Portugal,5.1761,-1.1233,432
-1850,1800-1850,Windward + Ivory + Gold +  Benin,USA,5.1761,-1.1233,385
-1850,1800-1850,Christiansborg,Other,5.5469,-0.1833,1736
-1850,1800-1850,Christiansborg,Other,5.5469,-0.1833,82
-1850,1800-1850,Accra,Other,5.55,-0.02,295
-1850,1800-1850,Accra,Great Britain,5.55,-0.02,2813
-1850,1800-1850,Accra,Portugal,5.55,-0.02,317
-1850,1800-1850,Accra,Spain,5.55,-0.02,556
-1850,1800-1850,Accra,USA,5.55,-0.02,291
-1850,1800-1850,Keta,Other,5.9031,0.9868,43
-1850,1800-1850,Keta,Spain,5.9031,0.9868,9
-1850,1800-1850,Little Popo,Spain,6.2273,1.5814,3
-1850,1800-1850,Popo,Other,6.2833,1.833,1147
-1850,1800-1850,Popo,France,6.2833,1.833,34
-1850,1800-1850,Popo,Great Britain,6.2833,1.833,484
-1850,1800-1850,Popo,Portugal,6.2833,1.833,1391
-1850,1800-1850,Popo,Spain,6.2833,1.833,1935
-1850,1800-1850,Popo,USA,6.2833,1.833,489
-1850,1800-1850,Whydah,Other,6.363,2.085,10267
-1850,1800-1850,Whydah,France,6.363,2.085,2211
-1850,1800-1850,Whydah,Great Britain,6.363,2.085,2201
-1850,1800-1850,Whydah,Other,6.363,2.085,490
-1850,1800-1850,Whydah,Portugal,6.363,2.085,12299
-1850,1800-1850,Whydah,Spain,6.363,2.085,6169
-1850,1800-1850,Whydah,USA,6.363,2.085,1152
-1850,1800-1850,"Bight of Benin, port unspecified",Other,5,2.1,3993
-1850,1800-1850,"Bight of Benin, port unspecified",Other,5,2.1,81
-1850,1800-1850,"Bight of Benin, port unspecified",France,5,2.1,676
-1850,1800-1850,"Bight of Benin, port unspecified",Great Britain,5,2.1,616
-1850,1800-1850,"Bight of Benin, port unspecified",Portugal,5,2.1,2093
-1850,1800-1850,"Bight of Benin, port unspecified",Spain,5,2.1,1754
-1850,1800-1850,"Bight of Benin, port unspecified",USA,5,2.1,772
-1850,1800-1850,Benin,Other,6.379,2.4513,166
-1850,1800-1850,Benin,France,6.379,2.4513,683
-1850,1800-1850,Benin,Great Britain,6.379,2.4513,255
-1850,1800-1850,Benin,Portugal,6.379,2.4513,571
-1850,1800-1850,Porto Novo,Other,6.4969,2.6289,1417
-1850,1800-1850,Porto Novo,Great Britain,6.4969,2.6289,669
-1850,1800-1850,Porto Novo,Portugal,6.4969,2.6289,3559
-1850,1800-1850,Porto Novo,Spain,6.4969,2.6289,490
-1850,1800-1850,Badagry,Other,6.415,2.88,1756
-1850,1800-1850,Badagry,Great Britain,6.415,2.88,615
-1850,1800-1850,Badagry,Portugal,6.415,2.88,3779
-1850,1800-1850,Badagry,Spain,6.415,2.88,205
-1850,1800-1850,Ife,Portugal,7.4905,4.5521,507
-1850,1800-1850,River Brass,France,4.317,6.224,1458
-1850,1800-1850,River Brass,Other,4.317,6.224,322
-1850,1800-1850,River Brass,Portugal,4.317,6.224,597
-1850,1800-1850,River Brass,Spain,4.317,6.224,1943
-1850,1800-1850,Iles Plantain,Spain,0.255436,6.602781,158
-1850,1800-1850,Costa de Africa (mainland coast around S Tome/Principe),Portugal,0.34523,6.7371,214
-1850,1800-1850,Costa de Africa (mainland coast around S Tome/Principe),Spain,0.34523,6.7371,148
-1850,1800-1850,São Tomé,France,0.34523,6.7371,5318
-1850,1800-1850,São Tomé,Portugal,0.34523,6.7371,6782
-1850,1800-1850,São Tomé,Spain,0.34523,6.7371,18040
-1850,1800-1850,São Tomé,USA,0.34523,6.7371,73
-1850,1800-1850,São Tomé or Princes Island,Portugal,0.34523,6.7371,12871
-1850,1800-1850,New Calabar,Great Britain,4.5502,6.9783,8744
-1850,1800-1850,New Calabar,Spain,4.5502,6.9783,1768
-1850,1800-1850,Bassa,France,7.7702,7.0498,980
-1850,1800-1850,Bassa,Great Britain,7.7702,7.0498,1433
-1850,1800-1850,Bonny,Other,4.4142,7.1898,510
-1850,1800-1850,Bonny,France,4.4142,7.1898,27438
-1850,1800-1850,Bonny,Great Britain,4.4142,7.1898,51557
-1850,1800-1850,Bonny,Portugal,4.4142,7.1898,6880
-1850,1800-1850,Bonny,Spain,4.4142,7.1898,17763
-1850,1800-1850,Bonny,USA,4.4142,7.1898,966
-1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,2268
-1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,4136
-1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Portugal,2.833,8,395
-1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Spain,2.833,8,2735
-1850,1800-1850,Bights,Other,2.8333,8,541
-1850,1800-1850,Bights,France,2.8333,8,1106
-1850,1800-1850,Bights,Portugal,2.8333,8,1092
-1850,1800-1850,Bights,Spain,2.8333,8,234
-1850,1800-1850,Calabar,Other,4.982,8.3345,574
-1850,1800-1850,Calabar,France,4.982,8.3345,9261
-1850,1800-1850,Calabar,Great Britain,4.982,8.3345,14131
-1850,1800-1850,Calabar,Netherlands,4.982,8.3345,53
-1850,1800-1850,Calabar,Portugal,4.982,8.3345,7883
-1850,1800-1850,Calabar,Spain,4.982,8.3345,5731
-1850,1800-1850,Calabar,USA,4.982,8.3345,300
-1850,1800-1850,Cap Lopez,Other,-0.7726,8.7812,847
-1850,1800-1850,Cap Lopez,France,-0.7726,8.7812,830
-1850,1800-1850,Cap Lopez,Portugal,-0.7726,8.7812,1475
-1850,1800-1850,Cap Lopez,Spain,-0.7726,8.7812,1651
-1850,1800-1850,Cap Lopez,Other,-0.7726,8.7812,182
-1850,1800-1850,Corisco,Spain,0.9167,9.3167,2
-1850,1800-1850,Corisco,USA,0.9167,9.3167,673
-1850,1800-1850,Bimbia,Portugal,4.066,9.4,817
-1850,1800-1850,Bimbia,Spain,4.066,9.4,269
-1850,1800-1850,Cameroons,Great Britain,4.0449,9.6855,5860
-1850,1800-1850,Cameroons,Portugal,4.0449,9.6855,1673
-1850,1800-1850,Cameroons,Spain,4.0449,9.6855,369
-1850,1800-1850,Cameroons River,Other,4.0833,9.7,1857
-1850,1800-1850,Cameroons River,Great Britain,4.0833,9.7,179
-1850,1800-1850,Cameroons River,Portugal,4.0833,9.7,2404
-1850,1800-1850,Cameroons River,Spain,4.0833,9.7,560
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,8405
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,7110
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,29189
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,797
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,18542
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,788
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1492
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",USA,-3.4426,10.6563,2761
-1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,1798
-1850,1800-1850,Mayumba,France,-3.4259,10.6567,273
-1850,1800-1850,Mayumba,Portugal,-3.4259,10.6567,212
-1850,1800-1850,Mayumba,Spain,-3.4259,10.6567,210
-1850,1800-1850,Loango,Other,-4.4925,11.2558,852
-1850,1800-1850,Loango,Great Britain,-4.4925,11.2558,3697
-1850,1800-1850,Loango,Spain,-4.4925,11.2558,5307
-1850,1800-1850,Loango,USA,-4.4925,11.2558,3354
-1850,1800-1850,Gabon,Other,-0.8037,11.6094,2208
-1850,1800-1850,Gabon,France,-0.8037,11.6094,3029
-1850,1800-1850,Gabon,Great Britain,-0.8037,11.6094,2974
-1850,1800-1850,Gabon,Portugal,-0.8037,11.6094,3544
-1850,1800-1850,Gabon,Spain,-0.8037,11.6094,868
-1850,1800-1850,Congo North,Other,-4.769,11.866,816
-1850,1800-1850,Congo North,France,-4.769,11.866,231
-1850,1800-1850,Congo North,Great Britain,-4.769,11.866,2307
-1850,1800-1850,Congo North,Netherlands,-4.769,11.866,323
-1850,1800-1850,Congo North,Spain,-4.769,11.866,146
-1850,1800-1850,Congo North,USA,-4.769,11.866,674
-1850,1800-1850,Malembo,Other,-5.3384,12.1876,19534
-1850,1800-1850,Malembo,Great Britain,-5.3384,12.1876,3702
-1850,1800-1850,Malembo,Portugal,-5.3384,12.1876,7024
-1850,1800-1850,Cabinda,Other,-5.57,12.2,22736
-1850,1800-1850,Cabinda,France,-5.57,12.2,307
-1850,1800-1850,Cabinda,Great Britain,-5.57,12.2,2213
-1850,1800-1850,Cabinda,Portugal,-5.57,12.2,25325
-1850,1800-1850,Cabinda,Spain,-5.57,12.2,3207
-1850,1800-1850,Cabinda,USA,-5.57,12.2,6419
-1850,1800-1850,Congo River,Other,-6.07,12.45,4450
-1850,1800-1850,Congo River,Other,-6.07,12.45,562
-1850,1800-1850,Congo River,Great Britain,-6.07,12.45,20138
-1850,1800-1850,Congo River,Portugal,-6.07,12.45,7585
-1850,1800-1850,Congo River,Spain,-6.07,12.45,2881
-1850,1800-1850,Congo River,USA,-6.07,12.45,12487
-1850,1800-1850,Ambriz,Other,-7.8499,13.1167,16623
-1850,1800-1850,Ambriz,France,-7.8499,13.1167,1494
-1850,1800-1850,Ambriz,Great Britain,-7.8499,13.1167,20
-1850,1800-1850,Ambriz,Portugal,-7.8499,13.1167,8605
-1850,1800-1850,Ambriz,Spain,-7.8499,13.1167,2338
-1850,1800-1850,Ambriz,USA,-7.8499,13.1167,1987
-1850,1800-1850,Coanza River,Portugal,-9.35,13.15,150
-1850,1800-1850,Coanza River,Spain,-9.35,13.15,29
-1850,1800-1850,St. Paul de Loanda,Other,-8.80407,13.2333,34660
-1850,1800-1850,St. Paul de Loanda,Portugal,-8.80407,13.2333,239503
-1850,1800-1850,St. Paul de Loanda,Spain,-8.80407,13.2333,4885
-1850,1800-1850,St. Paul de Loanda,USA,-8.80407,13.2333,107
-1850,1800-1850,St. Paul de Loanda,Other,-8.80407,13.2333,401
-1850,1800-1850,Benguela,Other,-12.59,13.42,16417
-1850,1800-1850,Benguela,Other,-12.59,13.42,391
-1850,1800-1850,Benguela,France,-12.59,13.42,490
-1850,1800-1850,Benguela,Portugal,-12.59,13.42,101498
-1850,1800-1850,Benguela,Spain,-12.59,13.42,1017
-1850,1800-1850,Benguela,USA,-12.59,13.42,905
-1850,1800-1850,Benguela,Other,-12.59,13.42,266
-1850,1800-1850,Quicombo,Other,-11.433,14,315
-1850,1800-1850,Cape of Good Hope,France,-34.21,18.28,273
-1850,1800-1850,Lourenço Marques,Other,-25.9692,32.5732,1914
-1850,1800-1850,Lourenço Marques,Portugal,-25.9692,32.5732,744
-1850,1800-1850,Lourenço Marques,Other,-25.9692,32.5732,514
-1850,1800-1850,Sofala,USA,-19,34.75,543
-1850,1800-1850,Galam,France,32.4612,35.0211,67
-1850,1800-1850,Mozambique,Other,-17.74087,35.3777,5263
-1850,1800-1850,Mozambique,Other,-17.74087,35.3777,512
-1850,1800-1850,Mozambique,France,-17.74087,35.3777,1526
-1850,1800-1850,Mozambique,Portugal,-17.74087,35.3777,47977
-1850,1800-1850,Mozambique,Spain,-17.74087,35.3777,8738
-1850,1800-1850,Mozambique,USA,-17.74087,35.3777,5106
-1850,1800-1850,Inhambane,Portugal,-23.86723,35.37964,2077
-1850,1800-1850,Inhambane,USA,-23.86723,35.37964,380
-1850,1800-1850,Quilimane,Other,-17.85,36.92,6485
-1850,1800-1850,Quilimane,Portugal,-17.85,36.92,34405
-1850,1800-1850,Quilimane,USA,-17.85,36.92,1403
-1850,1800-1850,Momboza or Zanzibar,Other,-6.1563,39.1927,332
-1850,1800-1850,Zanzibar,France,-6.1563,39.1927,244
-1850,1800-1850,Zanzibar,Spain,-6.1563,39.1927,3084
-1850,1800-1850,Zanzibar,USA,-6.1563,39.1927,91
-1850,1800-1850,Kilwa,France,-8.9659,39.4971,514
-1850,1800-1850,Kilwa,Portugal,-8.9659,39.4971,455
-1850,1800-1850,Kilwa,Spain,-8.9659,39.4971,639
-1850,1800-1850,Kilwa,USA,-8.9659,39.4971,228
-1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",France,-18.7669,46.8691,1616
-1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",Portugal,-18.7669,46.8691,771
-1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",Spain,-18.7669,46.8691,2863
-1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",USA,-18.7669,46.8691,400
-1850,1800-1850,Madagascar,France,-25.033,46.9833,525
-1850,1800-1850,Madagascar,Portugal,-25.033,46.9833,490
-1850,1800-1850,Madagascar,Spain,-25.033,46.9833,220
-1900,1850-1900,Rio Pongo,USA,10.05,-14.065,489
-1900,1850-1900,"Lagos, Onim",Other,6.5244,3.3792,1879
-1900,1850-1900,"Africa., port unspecified",Other,6.6111,20.9394,10836
-1900,1850-1900,"Africa., port unspecified",Portugal,6.6111,20.9394,2955
-1900,1850-1900,"Africa., port unspecified",Spain,6.6111,20.9394,10148
-1900,1850-1900,"Africa., port unspecified",USA,6.6111,20.9394,24606
-1900,1850-1900,Keta,USA,5.9031,0.9868,1171
-1900,1850-1900,Popo,USA,6.2833,1.833,760
-1900,1850-1900,Whydah,France,6.363,2.085,418
-1900,1850-1900,Whydah,USA,6.363,2.085,2867
-1900,1850-1900,"Bight of Benin, port unspecified",Other,5,2.1,1104
-1900,1850-1900,River Brass,USA,4.317,6.224,673
-1900,1850-1900,New Calabar,Other,4.5502,6.9783,152
-1900,1850-1900,"West Central Africa and St. Helena, port unspecified",USA,-3.4426,10.6563,400
-1900,1850-1900,Loango,Portugal,-4.4925,11.2558,687
-1900,1850-1900,Loango,Spain,-4.4925,11.2558,133
-1900,1850-1900,Loango,USA,-4.4925,11.2558,1927
-1900,1850-1900,Congo North,USA,-4.769,11.866,1502
-1900,1850-1900,Malembo,France,-5.3384,12.1876,714
-1900,1850-1900,Cabinda,USA,-5.57,12.2,3465
-1900,1850-1900,Congo River,Other,-6.07,12.45,611
-1900,1850-1900,Congo River,France,-6.07,12.45,673
-1900,1850-1900,Congo River,Other,-6.07,12.45,1250
-1900,1850-1900,Congo River,Spain,-6.07,12.45,989
-1900,1850-1900,Congo River,USA,-6.07,12.45,26517
-1900,1850-1900,Ambriz,USA,-7.8499,13.1167,3235
-1900,1850-1900,Benguela,Other,-12.59,13.42,1236
-1900,1850-1900,Benguela,France,-12.59,13.42,490
-1900,1850-1900,Benguela,Portugal,-12.59,13.42,300
-1900,1850-1900,Benguela,Spain,-12.59,13.42,3
-1900,1850-1900,Benguela,USA,-12.59,13.42,632
-1900,1850-1900,Kilongo,USA,-5.5032,24.1272,1786
-1900,1850-1900,Mozambique,Spain,-17.74087,35.3777,2835
-1900,1850-1900,Mozambique,USA,-17.74087,35.3777,3525
-1900,1850-1900,Quilimane,Other,-17.85,36.92,1507
-1900,1850-1900,Quilimane,USA,-17.85,36.92,1361
+time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_long,slaves_embarked,nat_color
+1550,1500-1550,Cape Verde Islands,Spain,16.54,-23.04,1330,yellow
+1550,1500-1550,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,359,purple
+1550,1500-1550,São Tomé,Portugal,0.34523,6.7371,359,purple
+1550,1500-1550,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,363,yellow
+1600,1550-1600,Cape Verde Islands,Portugal,16.54,-23.04,7210,purple
+1600,1550-1600,Cape Verde Islands,Spain,16.54,-23.04,1791,yellow
+1600,1550-1600,"Sierra Leone, port unspecified",Great Britain,8.57,-13.03,1049,red
+1600,1550-1600,"Sierra Leone, port unspecified",Portugal,8.57,-13.03,359,purple
+1600,1550-1600,Portuguese Guinea,France,11,-10,359,blue
+1600,1550-1600,Portuguese Guinea,Portugal,11,-10,9749,purple
+1600,1550-1600,Portuguese Guinea,Spain,11,-10,2512,yellow
+1600,1550-1600,"Africa., port unspecified",France,6.6111,20.9394,164,blue
+1600,1550-1600,"Africa., port unspecified",Great Britain,6.6111,20.9394,700,red
+1600,1550-1600,"Africa., port unspecified",Portugal,6.6111,20.9394,5830,purple
+1600,1550-1600,São Tomé,Portugal,0.34523,6.7371,3399,purple
+1600,1550-1600,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,20829,purple
+1600,1550-1600,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1006,yellow
+1600,1550-1600,Congo River,Portugal,-6.07,12.45,413,purple
+1600,1550-1600,St. Paul de Loanda,Portugal,-8.80407,13.2333,1145,purple
+1600,1550-1600,St. Paul de Loanda,Spain,-8.80407,13.2333,371,yellow
+1650,1600-1650,Cape Verde Islands,Portugal,16.54,-23.04,8002,purple
+1650,1600-1650,Cape Verde Islands,Spain,16.54,-23.04,1400,yellow
+1650,1600-1650,Cacheu,France,12,-16.1667,179,blue
+1650,1600-1650,Cacheu,Portugal,12,-16.1667,1059,purple
+1650,1600-1650,Cacheu,Spain,12,-16.1667,413,yellow
+1650,1600-1650,Gambia,Great Britain,13.4432,-15.3101,607,red
+1650,1600-1650,Portuguese Guinea,Portugal,11,-10,9781,purple
+1650,1600-1650,Portuguese Guinea,Spain,11,-10,7631,yellow
+1650,1600-1650,"Africa., port unspecified",Other,6.6111,20.9394,347,grey
+1650,1600-1650,"Africa., port unspecified",Great Britain,6.6111,20.9394,1163,red
+1650,1600-1650,"Africa., port unspecified",Netherlands,6.6111,20.9394,3242,orange
+1650,1600-1650,"Africa., port unspecified",Portugal,6.6111,20.9394,3426,purple
+1650,1600-1650,"Africa., port unspecified",Spain,6.6111,20.9394,148,yellow
+1650,1600-1650,"Africa., port unspecified",USA,6.6111,20.9394,149,green
+1650,1600-1650,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,299,red
+1650,1600-1650,Gold Coast + Bight of Benin + Bight of Biafra,Netherlands,5.1761,-1.1233,2698,orange
+1650,1600-1650,Accra,Netherlands,5.55,-0.02,213,orange
+1650,1600-1650,"Bight of Benin, port unspecified",Netherlands,5,2.1,361,orange
+1650,1600-1650,Ardra,Netherlands,6.379,2.451324,4785,orange
+1650,1600-1650,Ardra,Portugal,6.379,2.451324,1612,purple
+1650,1600-1650,Ardra,Spain,6.379,2.451324,1697,yellow
+1650,1600-1650,São Tomé,Netherlands,0.34523,6.7371,482,orange
+1650,1600-1650,São Tomé,Portugal,0.34523,6.7371,6686,purple
+1650,1600-1650,São Tomé,Spain,0.34523,6.7371,1209,yellow
+1650,1600-1650,Gulf of Guinea islands,Spain,1.6139,7.4057,256,yellow
+1650,1600-1650,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,1737,red
+1650,1600-1650,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Netherlands,2.833,8,1209,orange
+1650,1600-1650,Calabar,Other,4.982,8.3345,643,grey
+1650,1600-1650,Calabar,Great Britain,4.982,8.3345,3738,red
+1650,1600-1650,Calabar,Netherlands,4.982,8.3345,2794,orange
+1650,1600-1650,Calabar,Portugal,4.982,8.3345,353,purple
+1650,1600-1650,Calabar,Other,4.982,8.3345,260,grey
+1650,1600-1650,River del Rey,Great Britain,4.5352,8.7426,743,red
+1650,1600-1650,River del Rey,Netherlands,4.5352,8.7426,140,orange
+1650,1600-1650,Cap Lopez,Netherlands,-0.7726,8.7812,313,orange
+1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,489,orange
+1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,11984,purple
+1650,1600-1650,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,6657,yellow
+1650,1600-1650,Loango,Netherlands,-4.4925,11.2558,139,orange
+1650,1600-1650,Mpinda,Netherlands,-6.141,12.3521,411,orange
+1650,1600-1650,St. Paul de Loanda,Other,-8.80407,13.2333,325,grey
+1650,1600-1650,St. Paul de Loanda,Netherlands,-8.80407,13.2333,13387,orange
+1650,1600-1650,St. Paul de Loanda,Portugal,-8.80407,13.2333,84841,purple
+1650,1600-1650,St. Paul de Loanda,Spain,-8.80407,13.2333,6569,yellow
+1700,1650-1700,Cape Verde Islands,France,16.54,-23.04,591,blue
+1700,1650-1700,Cape Verde Islands,Portugal,16.54,-23.04,0,purple
+1700,1650-1700,Cape Verde Islands,Spain,16.54,-23.04,2475,yellow
+1700,1650-1700,Senegal,France,14.72,-17.47,4478,blue
+1700,1650-1700,Arguim,Other,20.89894,-17.05258,339,grey
+1700,1650-1700,Albreda,France,13.3378,-16.3861,316,blue
+1700,1650-1700,Cacheu,Great Britain,12,-16.1667,171,red
+1700,1650-1700,Cacheu,Spain,12,-16.1667,200,yellow
+1700,1650-1700,Bissau,France,11.86113,-15.5859,632,blue
+1700,1650-1700,Gambia,France,13.4432,-15.3101,150,blue
+1700,1650-1700,Gambia,Great Britain,13.4432,-15.3101,12946,red
+1700,1650-1700,Gambia,Netherlands,13.4432,-15.3101,110,orange
+1700,1650-1700,Sierra Leone estuary,Great Britain,8.48444,-13.23444,1760,red
+1700,1650-1700,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,77,red
+1700,1650-1700,Sherbro,Great Britain,7.31,-12.3,277,red
+1700,1650-1700,Cape Mount (Cape Grand Mount),France,7.133,-11.05,316,blue
+1700,1650-1700,Sassandra,Spain,4.9513,-6.0918,145,yellow
+1700,1650-1700,Ivory Coast,France,7.54,-5.5471,180,blue
+1700,1650-1700,Costa da Mina,Portugal,5.0827,-1.348,24729,purple
+1700,1650-1700,Elmina,Great Britain,5.1053,-1.3421,145,red
+1700,1650-1700,Elmina,Netherlands,5.1053,-1.3421,747,orange
+1700,1650-1700,Elmina,Portugal,5.1053,-1.3421,984,purple
+1700,1650-1700,"Africa., port unspecified",Other,6.6111,20.9394,664,grey
+1700,1650-1700,"Africa., port unspecified",France,6.6111,20.9394,8071,blue
+1700,1650-1700,"Africa., port unspecified",Great Britain,6.6111,20.9394,73116,red
+1700,1650-1700,"Africa., port unspecified",Other,6.6111,20.9394,14110,grey
+1700,1650-1700,"Africa., port unspecified",Netherlands,6.6111,20.9394,10141,orange
+1700,1650-1700,"Africa., port unspecified",Portugal,6.6111,20.9394,3832,purple
+1700,1650-1700,"Africa., port unspecified",Spain,6.6111,20.9394,3767,yellow
+1700,1650-1700,"Africa., port unspecified",USA,6.6111,20.9394,181,green
+1700,1650-1700,"Gold Coast, port unspecified",Other,5.1036,-1.2411,521,grey
+1700,1650-1700,"Gold Coast, port unspecified",France,5.1036,-1.2411,696,blue
+1700,1650-1700,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,23056,red
+1700,1650-1700,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,9144,orange
+1700,1650-1700,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,406,purple
+1700,1650-1700,"Gold Coast, port unspecified",USA,5.1036,-1.2411,143,green
+1700,1650-1700,Cape Coast Castle,Other,5.1,-1.24,290,grey
+1700,1650-1700,Cape Coast Castle,Great Britain,5.1,-1.24,5729,red
+1700,1650-1700,Alampo,Great Britain,5.102,-1.2388,1024,red
+1700,1650-1700,Gold Coast from Kormatine to Accra,Portugal,5.1761,-1.1233,408,purple
+1700,1650-1700,"Gold Coast, Fr. definition",France,5.1761,-1.1233,316,blue
+1700,1650-1700,Danish Gold Coast,Other,5.5469,-0.1833,243,grey
+1700,1650-1700,Danish Gold Coast,Other,5.5469,-0.1833,1422,grey
+1700,1650-1700,Accra,Great Britain,5.55,-0.02,849,red
+1700,1650-1700,Keta,Great Britain,5.9031,0.9868,230,red
+1700,1650-1700,Little Popo,Other,6.2273,1.5814,506,grey
+1700,1650-1700,Little Popo,Great Britain,6.2273,1.5814,404,red
+1700,1650-1700,Grand Popo,Netherlands,6.2639,1.7417,467,orange
+1700,1650-1700,Popo,Netherlands,6.2833,1.833,563,orange
+1700,1650-1700,Whydah,France,6.363,2.085,2369,blue
+1700,1650-1700,Whydah,Great Britain,6.363,2.085,41307,red
+1700,1650-1700,Whydah,Other,6.363,2.085,2084,grey
+1700,1650-1700,Whydah,Netherlands,6.363,2.085,3330,orange
+1700,1650-1700,"Bight of Benin, port unspecified",France,5,2.1,1679,blue
+1700,1650-1700,"Bight of Benin, port unspecified",Great Britain,5,2.1,1374,red
+1700,1650-1700,"Bight of Benin, port unspecified",Other,5,2.1,1796,grey
+1700,1650-1700,"Bight of Benin, port unspecified",Netherlands,5,2.1,3632,orange
+1700,1650-1700,"Bight of Benin, port unspecified",Portugal,5,2.1,408,purple
+1700,1650-1700,Ardra,France,6.379,2.451324,997,blue
+1700,1650-1700,Ardra,Great Britain,6.379,2.451324,20359,red
+1700,1650-1700,Ardra,Netherlands,6.379,2.451324,26258,orange
+1700,1650-1700,Ardra,Portugal,6.379,2.451324,100,purple
+1700,1650-1700,São Tomé,Portugal,0.34523,6.7371,2130,purple
+1700,1650-1700,New Calabar,France,4.5502,6.9783,386,blue
+1700,1650-1700,New Calabar,Great Britain,4.5502,6.9783,13309,red
+1700,1650-1700,New Calabar,Spain,4.5502,6.9783,104,yellow
+1700,1650-1700,Bonny,Great Britain,4.4142,7.1898,1782,red
+1700,1650-1700,Bonny,Netherlands,4.4142,7.1898,195,orange
+1700,1650-1700,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,10424,red
+1700,1650-1700,Bights,Great Britain,2.8333,8,1015,red
+1700,1650-1700,Calabar,Great Britain,4.982,8.3345,20981,red
+1700,1650-1700,Calabar,Netherlands,4.982,8.3345,2007,orange
+1700,1650-1700,Calabar,Portugal,4.982,8.3345,1040,purple
+1700,1650-1700,River del Rey,Netherlands,4.5352,8.7426,422,orange
+1700,1650-1700,Cap Lopez,Great Britain,-0.7726,8.7812,181,red
+1700,1650-1700,Corisco,Netherlands,0.9167,9.3167,804,orange
+1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,23387,red
+1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,624,grey
+1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,3183,orange
+1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,586,purple
+1700,1650-1700,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,2131,yellow
+1700,1650-1700,Loango,Great Britain,-4.4925,11.2558,94,red
+1700,1650-1700,Loango,Netherlands,-4.4925,11.2558,2463,orange
+1700,1650-1700,Boary,Netherlands,-4.49257,11.25584,674,orange
+1700,1650-1700,Gabon,Portugal,-0.8037,11.6094,408,purple
+1700,1650-1700,Congo North,Netherlands,-4.769,11.866,26223,orange
+1700,1650-1700,Malembo,France,-5.3384,12.1876,301,blue
+1700,1650-1700,Malembo,Netherlands,-5.3384,12.1876,906,orange
+1700,1650-1700,Cabinda,Great Britain,-5.57,12.2,2648,red
+1700,1650-1700,Mpinda,Netherlands,-6.141,12.3521,604,orange
+1700,1650-1700,Soyo,USA,-6.141,12.3521,146,green
+1700,1650-1700,Congo River,Great Britain,-6.07,12.45,243,red
+1700,1650-1700,Congo River,Spain,-6.07,12.45,800,yellow
+1700,1650-1700,St. Paul de Loanda,Great Britain,-8.80407,13.2333,1376,red
+1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,7582,purple
+1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,600,purple
+1700,1650-1700,St. Paul de Loanda,Spain,-8.80407,13.2333,1100,yellow
+1700,1650-1700,Madagascar,Great Britain,-25.033,46.9833,6643,red
+1700,1650-1700,Madagascar,USA,-25.033,46.9833,1124,green
+1750,1700-1750,Windward Coast (Nunez - Assini),Netherlands,6.4281,-9.4295,459,orange
+1750,1700-1750,"Windward Coast, port unspecified",France,6.4281,-9.4295,1131,blue
+1750,1700-1750,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,3098,red
+1750,1700-1750,"Windward Coast, port unspecified",Netherlands,6.4281,-9.4295,914,orange
+1750,1700-1750,"Windward Coast, port unspecified",USA,6.4281,-9.4295,159,green
+1750,1700-1750,Cape Verde Islands,Great Britain,16.54,-23.04,108,red
+1750,1700-1750,Cape Verde Islands,USA,16.54,-23.04,224,green
+1750,1700-1750,Senegal,France,14.72,-17.47,13854,blue
+1750,1700-1750,Cacheu,Great Britain,12,-16.1667,500,red
+1750,1700-1750,Cacheu,Portugal,12,-16.1667,1315,purple
+1750,1700-1750,Gallinhas,France,11.4667,-15.6833,177,blue
+1750,1700-1750,Gallinhas,Great Britain,11.4667,-15.6833,666,red
+1750,1700-1750,Bissau,France,11.86113,-15.5859,168,blue
+1750,1700-1750,Bissau,Great Britain,11.86113,-15.5859,331,red
+1750,1700-1750,Bissau,Portugal,11.86113,-15.5859,160,purple
+1750,1700-1750,Gambia,France,13.4432,-15.3101,605,blue
+1750,1700-1750,Gambia,Great Britain,13.4432,-15.3101,27659,red
+1750,1700-1750,Gambia,Netherlands,13.4432,-15.3101,309,orange
+1750,1700-1750,Gambia,Portugal,13.4432,-15.3101,169,purple
+1750,1700-1750,Gambia,USA,13.4432,-15.3101,1855,green
+1750,1700-1750,Sierra Leone estuary,France,8.48444,-13.23444,782,blue
+1750,1700-1750,Sierra Leone estuary,Great Britain,8.48444,-13.23444,3925,red
+1750,1700-1750,Sierra Leone estuary,USA,8.48444,-13.23444,196,green
+1750,1700-1750,Banana Islands,France,8.1159,-13.2115,446,blue
+1750,1700-1750,Banana Islands,Great Britain,8.1159,-13.2115,538,red
+1750,1700-1750,Banana Islands,USA,8.1159,-13.2115,96,green
+1750,1700-1750,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,786,red
+1750,1700-1750,Sherbro,France,7.31,-12.3,90,blue
+1750,1700-1750,Sherbro,Great Britain,7.31,-12.3,962,red
+1750,1700-1750,Cape Mount (Cape Grand Mount),France,7.133,-11.05,213,blue
+1750,1700-1750,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,666,red
+1750,1700-1750,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,134,green
+1750,1700-1750,Grand Mesurado,France,6.2945,-10.7452,804,blue
+1750,1700-1750,Sassandra,France,4.9513,-6.0918,495,blue
+1750,1700-1750,Ivory Coast,Great Britain,7.54,-5.5471,527,red
+1750,1700-1750,Cape Lahou,France,5.1365,-5.026,977,blue
+1750,1700-1750,Cape Lahou,Great Britain,5.1365,-5.026,619,red
+1750,1700-1750,Cape Lahou,Netherlands,5.1365,-5.026,2137,orange
+1750,1700-1750,Cape Lahou,Portugal,5.1365,-5.026,2502,purple
+1750,1700-1750,Grand Bassam,France,5.2259,-3.7537,455,blue
+1750,1700-1750,Grand Bassam,Great Britain,5.2259,-3.7537,172,red
+1750,1700-1750,Rio Assini,Portugal,5.1167,-3.2833,301,purple
+1750,1700-1750,Axim,Netherlands,4.8665,-2.2409,1067,orange
+1750,1700-1750,Pokesoe (formerly Gross Friedrichsburg),Other,4.7956,-2.134,247,grey
+1750,1700-1750,Costa da Mina,France,5.0827,-1.348,367,blue
+1750,1700-1750,Costa da Mina,Portugal,5.0827,-1.348,136217,purple
+1750,1700-1750,Elmina,France,5.1053,-1.3421,1939,blue
+1750,1700-1750,Elmina,Netherlands,5.1053,-1.3421,24672,orange
+1750,1700-1750,Elmina,Portugal,5.1053,-1.3421,1067,purple
+1750,1700-1750,"Africa., port unspecified",France,6.6111,20.9394,61529,blue
+1750,1700-1750,"Africa., port unspecified",Great Britain,6.6111,20.9394,424170,red
+1750,1700-1750,"Africa., port unspecified",Other,6.6111,20.9394,2117,grey
+1750,1700-1750,"Africa., port unspecified",Netherlands,6.6111,20.9394,18642,orange
+1750,1700-1750,"Africa., port unspecified",Portugal,6.6111,20.9394,1676,purple
+1750,1700-1750,"Africa., port unspecified",USA,6.6111,20.9394,18553,green
+1750,1700-1750,"Gold Coast, port unspecified",Other,5.1036,-1.2411,1763,grey
+1750,1700-1750,"Gold Coast, port unspecified",France,5.1036,-1.2411,4421,blue
+1750,1700-1750,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,76734,red
+1750,1700-1750,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,7545,orange
+1750,1700-1750,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,235,purple
+1750,1700-1750,"Gold Coast, port unspecified",USA,5.1036,-1.2411,1121,green
+1750,1700-1750,Cape Coast Castle,France,5.1,-1.24,1479,blue
+1750,1700-1750,Cape Coast Castle,Great Britain,5.1,-1.24,28528,red
+1750,1700-1750,Cape Coast Castle,Portugal,5.1,-1.24,508,purple
+1750,1700-1750,Cape Coast Castle,USA,5.1,-1.24,149,green
+1750,1700-1750,Alampo,Great Britain,5.102,-1.2388,590,red
+1750,1700-1750,"Anomabu, Adja, Agga",France,5.1761,-1.1233,14416,blue
+1750,1700-1750,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,25340,red
+1750,1700-1750,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,1166,green
+1750,1700-1750,"Gold Coast, Fr. definition",France,5.1761,-1.1233,2372,blue
+1750,1700-1750,Windward + Ivory + Gold +  Benin,France,5.1761,-1.1233,2238,blue
+1750,1700-1750,Windward + Ivory + Gold +  Benin,Great Britain,5.1761,-1.1233,2734,red
+1750,1700-1750,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,6232,orange
+1750,1700-1750,Christiansborg,Other,5.5469,-0.1833,4924,grey
+1750,1700-1750,Accra,France,5.55,-0.02,981,blue
+1750,1700-1750,Accra,Great Britain,5.55,-0.02,233,red
+1750,1700-1750,Accra,Netherlands,5.55,-0.02,2014,orange
+1750,1700-1750,Keta,France,5.9031,0.9868,611,blue
+1750,1700-1750,Keta,Great Britain,5.9031,0.9868,372,red
+1750,1700-1750,Keta,Netherlands,5.9031,0.9868,467,orange
+1750,1700-1750,Little Popo,France,6.2273,1.5814,10716,blue
+1750,1700-1750,Little Popo,Great Britain,6.2273,1.5814,102,red
+1750,1700-1750,Grand Popo,France,6.2639,1.7417,765,blue
+1750,1700-1750,Popo,France,6.2833,1.833,1638,blue
+1750,1700-1750,Whydah,Other,6.363,2.085,373,grey
+1750,1700-1750,Whydah,France,6.363,2.085,93781,blue
+1750,1700-1750,Whydah,Great Britain,6.363,2.085,52066,red
+1750,1700-1750,Whydah,Netherlands,6.363,2.085,26888,orange
+1750,1700-1750,Whydah,Portugal,6.363,2.085,5239,purple
+1750,1700-1750,"Bight of Benin, port unspecified",Other,5,2.1,1175,grey
+1750,1700-1750,"Bight of Benin, port unspecified",France,5,2.1,7426,blue
+1750,1700-1750,"Bight of Benin, port unspecified",Great Britain,5,2.1,2421,red
+1750,1700-1750,"Bight of Benin, port unspecified",Netherlands,5,2.1,1969,orange
+1750,1700-1750,"Bight of Benin, port unspecified",Portugal,5,2.1,855,purple
+1750,1700-1750,Benin,France,6.379,2.4513,863,blue
+1750,1700-1750,Benin,Great Britain,6.379,2.4513,3145,red
+1750,1700-1750,Ardra,France,6.379,2.451324,91,blue
+1750,1700-1750,Ardra,Netherlands,6.379,2.451324,1278,orange
+1750,1700-1750,Badagry,France,6.415,2.88,3827,blue
+1750,1700-1750,Badagry,Netherlands,6.415,2.88,5159,orange
+1750,1700-1750,Epe,France,6.6055,3.947,9503,blue
+1750,1700-1750,Epe,Great Britain,6.6055,3.947,661,red
+1750,1700-1750,Epe,Portugal,6.6055,3.947,816,purple
+1750,1700-1750,São Tomé,Great Britain,0.34523,6.7371,542,red
+1750,1700-1750,São Tomé,Portugal,0.34523,6.7371,3208,purple
+1750,1700-1750,New Calabar,France,4.5502,6.9783,276,blue
+1750,1700-1750,New Calabar,Great Britain,4.5502,6.9783,3261,red
+1750,1700-1750,Bonny,France,4.4142,7.1898,1494,blue
+1750,1700-1750,Bonny,Great Britain,4.4142,7.1898,37087,red
+1750,1700-1750,Bonny,USA,4.4142,7.1898,292,green
+1750,1700-1750,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,471,blue
+1750,1700-1750,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,10292,red
+1750,1700-1750,Bights,Great Britain,2.8333,8,179,red
+1750,1700-1750,Calabar,France,4.982,8.3345,2769,blue
+1750,1700-1750,Calabar,Great Britain,4.982,8.3345,43787,red
+1750,1700-1750,Calabar,Other,4.982,8.3345,56,grey
+1750,1700-1750,Calabar,Netherlands,4.982,8.3345,460,orange
+1750,1700-1750,Calabar,Portugal,4.982,8.3345,5228,purple
+1750,1700-1750,Cap Lopez,France,-0.7726,8.7812,579,blue
+1750,1700-1750,Cap Lopez,Great Britain,-0.7726,8.7812,276,red
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,370,grey
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,23025,blue
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,51941,red
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,455,orange
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,688,purple
+1750,1700-1750,Mayumba,Great Britain,-3.4259,10.6567,546,red
+1750,1700-1750,Loango,France,-4.4925,11.2558,18232,blue
+1750,1700-1750,Loango,Great Britain,-4.4925,11.2558,9456,red
+1750,1700-1750,Loango,Netherlands,-4.4925,11.2558,4352,orange
+1750,1700-1750,Loango,USA,-4.4925,11.2558,257,green
+1750,1700-1750,Boary,Netherlands,-4.49257,11.25584,2367,orange
+1750,1700-1750,Gabon,France,-0.8037,11.6094,1059,blue
+1750,1700-1750,Gabon,Netherlands,-0.8037,11.6094,10,orange
+1750,1700-1750,Congo North,France,-4.769,11.866,1212,blue
+1750,1700-1750,Congo North,Netherlands,-4.769,11.866,24795,orange
+1750,1700-1750,Malembo,France,-5.3384,12.1876,6525,blue
+1750,1700-1750,Malembo,Great Britain,-5.3384,12.1876,7765,red
+1750,1700-1750,Malembo,Netherlands,-5.3384,12.1876,4245,orange
+1750,1700-1750,Cabinda,France,-5.57,12.2,19930,blue
+1750,1700-1750,Cabinda,Great Britain,-5.57,12.2,19976,red
+1750,1700-1750,Cabinda,Netherlands,-5.57,12.2,609,orange
+1750,1700-1750,Congo River,France,-6.07,12.45,198,blue
+1750,1700-1750,Congo River,Great Britain,-6.07,12.45,170,red
+1750,1700-1750,St. Paul de Loanda,France,-8.80407,13.2333,801,blue
+1750,1700-1750,St. Paul de Loanda,Portugal,-8.80407,13.2333,168365,purple
+1750,1700-1750,Benguela,Portugal,-12.59,13.42,3798,purple
+1750,1700-1750,Madeira,Great Britain,32.76,16.96,414,red
+1750,1700-1750,Chama,France,-11.2167,33.1605,271,blue
+1750,1700-1750,Galam,France,32.4612,35.0211,100,blue
+1750,1700-1750,"Southeast Africa and Indian Ocean islands, port unspecified",Great Britain,-18.7669,46.8691,59,red
+1750,1700-1750,Madagascar,Other,-25.033,46.9833,42,grey
+1750,1700-1750,Madagascar,France,-25.033,46.9833,772,blue
+1750,1700-1750,Madagascar,Great Britain,-25.033,46.9833,5771,red
+1750,1700-1750,St. Paul,France,-21.0453,55.3365,196,blue
+1800,1750-1800,C.C. Castle and Windward,USA,6.4281,-9.4295,167,green
+1800,1750-1800,Windward Coast (Nunez - Assini),Great Britain,6.4281,-9.4295,16525,red
+1800,1750-1800,"Windward Coast, port unspecified",France,6.4281,-9.4295,2058,blue
+1800,1750-1800,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,67566,red
+1800,1750-1800,"Windward Coast, port unspecified",Netherlands,6.4281,-9.4295,3328,orange
+1800,1750-1800,"Windward Coast, port unspecified",USA,6.4281,-9.4295,678,green
+1800,1750-1800,Cape Verde Islands,Portugal,16.54,-23.04,176,purple
+1800,1750-1800,Cape Verde Islands,USA,16.54,-23.04,45,green
+1800,1750-1800,Senegal,France,14.72,-17.47,11657,blue
+1800,1750-1800,Senegal,Great Britain,14.72,-17.47,21339,red
+1800,1750-1800,Senegal,USA,14.72,-17.47,1285,green
+1800,1750-1800,"Joal, or Saloum River",France,14.1812,-16.8503,17,blue
+1800,1750-1800,Albreda,France,13.3378,-16.3861,154,blue
+1800,1750-1800,Cacheu,France,12,-16.1667,617,blue
+1800,1750-1800,Cacheu,Great Britain,12,-16.1667,351,red
+1800,1750-1800,Cacheu,Portugal,12,-16.1667,13004,purple
+1800,1750-1800,Cacheu,USA,12,-16.1667,40,green
+1800,1750-1800,Bissagos,France,11.25,-16.083,250,blue
+1800,1750-1800,Bissagos,Great Britain,11.25,-16.083,277,red
+1800,1750-1800,Gallinhas,Great Britain,11.4667,-15.6833,1541,red
+1800,1750-1800,Bissau,France,11.86113,-15.5859,679,blue
+1800,1750-1800,Bissau,Portugal,11.86113,-15.5859,15451,purple
+1800,1750-1800,Casamance,Other,13.0153,-15.3177,326,grey
+1800,1750-1800,Casamance,France,13.0153,-15.3177,53,blue
+1800,1750-1800,Casamance,Great Britain,13.0153,-15.3177,110,red
+1800,1750-1800,Gambia,France,13.4432,-15.3101,2301,blue
+1800,1750-1800,Gambia,Great Britain,13.4432,-15.3101,56455,red
+1800,1750-1800,Gambia,Spain,13.4432,-15.3101,0,yellow
+1800,1750-1800,Gambia,USA,13.4432,-15.3101,2439,green
+1800,1750-1800,Rio Nunez,Great Britain,10.833,-14.533,1391,red
+1800,1750-1800,Rio Nunez,USA,10.833,-14.533,594,green
+1800,1750-1800,Rio Pongo,Great Britain,10.05,-14.065,622,red
+1800,1750-1800,Rio Pongo,USA,10.05,-14.065,99,green
+1800,1750-1800,Iles de Los,France,9.4769,-13.7855,11945,blue
+1800,1750-1800,Iles de Los,Great Britain,9.4769,-13.7855,24747,red
+1800,1750-1800,Iles de Los,USA,9.4769,-13.7855,2367,green
+1800,1750-1800,Scarcies,France,8.48444,-13.23444,157,blue
+1800,1750-1800,Sierra Leone estuary,Other,8.48444,-13.23444,1255,grey
+1800,1750-1800,Sierra Leone estuary,France,8.48444,-13.23444,9497,blue
+1800,1750-1800,Sierra Leone estuary,Great Britain,8.48444,-13.23444,53618,red
+1800,1750-1800,Sierra Leone estuary,Netherlands,8.48444,-13.23444,328,orange
+1800,1750-1800,Sierra Leone estuary,Portugal,8.48444,-13.23444,40,purple
+1800,1750-1800,Sierra Leone estuary,USA,8.48444,-13.23444,3318,green
+1800,1750-1800,Banana Islands,France,8.1159,-13.2115,572,blue
+1800,1750-1800,Banana Islands,Great Britain,8.1159,-13.2115,3588,red
+1800,1750-1800,Banana Islands,USA,8.1159,-13.2115,511,green
+1800,1750-1800,Bance Island (Ben's Island),France,8.5667,-13.033,1133,blue
+1800,1750-1800,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,9526,red
+1800,1750-1800,Bance Island (Ben's Island),Netherlands,8.5667,-13.033,553,orange
+1800,1750-1800,Bance Island (Ben's Island),USA,8.5667,-13.033,562,green
+1800,1750-1800,"Sierra Leone, port unspecified",France,8.57,-13.03,88,blue
+1800,1750-1800,"Sierra Leone, port unspecified",Great Britain,8.57,-13.03,922,red
+1800,1750-1800,"Sierra Leone, port unspecified",USA,8.57,-13.03,214,green
+1800,1750-1800,Sherbro,Great Britain,7.31,-12.3,2732,red
+1800,1750-1800,Sherbro,USA,7.31,-12.3,268,green
+1800,1750-1800,Mano,Great Britain,6.9295,-11.5007,574,red
+1800,1750-1800,Cape Mount (Cape Grand Mount),France,7.133,-11.05,2201,blue
+1800,1750-1800,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,29004,red
+1800,1750-1800,Cape Mount (Cape Grand Mount),Netherlands,7.133,-11.05,1035,orange
+1800,1750-1800,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,307,green
+1800,1750-1800,Grand Mesurado,France,6.2945,-10.7452,629,blue
+1800,1750-1800,Grand Mesurado,Great Britain,6.2945,-10.7452,919,red
+1800,1750-1800,"Lagos, Onim",France,6.5244,3.3792,4709,blue
+1800,1750-1800,"Lagos, Onim",Great Britain,6.5244,3.3792,6480,red
+1800,1750-1800,"Lagos, Onim",Portugal,6.5244,3.3792,1994,purple
+1800,1750-1800,Garroway Roads,Great Britain,4.56,-7.91571,148,red
+1800,1750-1800,Tabou,Great Britain,5.1012,-7.3517,358,red
+1800,1750-1800,Ivory Coast,Netherlands,7.54,-5.5471,318,orange
+1800,1750-1800,Cape Lahou,France,5.1365,-5.026,676,blue
+1800,1750-1800,Cape Lahou,Great Britain,5.1365,-5.026,514,red
+1800,1750-1800,Cape Lahou,Netherlands,5.1365,-5.026,18381,orange
+1800,1750-1800,Grand Bassam,Great Britain,5.2259,-3.7537,101,red
+1800,1750-1800,Apollonia,Great Britain,4.9885,-2.5904,352,red
+1800,1750-1800,Axim,Netherlands,4.8665,-2.2409,496,orange
+1800,1750-1800,Costa da Mina,Portugal,5.0827,-1.348,138292,purple
+1800,1750-1800,Elmina,Other,5.1053,-1.3421,160,grey
+1800,1750-1800,Elmina,France,5.1053,-1.3421,317,blue
+1800,1750-1800,Elmina,Great Britain,5.1053,-1.3421,305,red
+1800,1750-1800,Elmina,Netherlands,5.1053,-1.3421,18969,orange
+1800,1750-1800,Elmina,Portugal,5.1053,-1.3421,517,purple
+1800,1750-1800,Elmina,USA,5.1053,-1.3421,224,green
+1800,1750-1800,"Africa., port unspecified",Other,6.6111,20.9394,16301,grey
+1800,1750-1800,"Africa., port unspecified",France,6.6111,20.9394,42450,blue
+1800,1750-1800,"Africa., port unspecified",Great Britain,6.6111,20.9394,165010,red
+1800,1750-1800,"Africa., port unspecified",Netherlands,6.6111,20.9394,11131,orange
+1800,1750-1800,"Africa., port unspecified",Portugal,6.6111,20.9394,862,purple
+1800,1750-1800,"Africa., port unspecified",Spain,6.6111,20.9394,1046,yellow
+1800,1750-1800,"Africa., port unspecified",Other,6.6111,20.9394,380,grey
+1800,1750-1800,"Africa., port unspecified",USA,6.6111,20.9394,43062,green
+1800,1750-1800,"Gold Coast, port unspecified",Other,5.1036,-1.2411,7352,grey
+1800,1750-1800,"Gold Coast, port unspecified",France,5.1036,-1.2411,2993,blue
+1800,1750-1800,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,86326,red
+1800,1750-1800,"Gold Coast, port unspecified",Netherlands,5.1036,-1.2411,8153,orange
+1800,1750-1800,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,57,purple
+1800,1750-1800,"Gold Coast, port unspecified",USA,5.1036,-1.2411,11915,green
+1800,1750-1800,Cape Coast Castle,France,5.1,-1.24,1536,blue
+1800,1750-1800,Cape Coast Castle,Great Britain,5.1,-1.24,54063,red
+1800,1750-1800,Cape Coast Castle,Netherlands,5.1,-1.24,313,orange
+1800,1750-1800,Cape Coast Castle,Portugal,5.1,-1.24,214,purple
+1800,1750-1800,Cape Coast Castle,Other,5.1,-1.24,130,grey
+1800,1750-1800,Cape Coast Castle,USA,5.1,-1.24,10766,green
+1800,1750-1800,"Anomabu, Adja, Agga",Other,5.1761,-1.1233,350,grey
+1800,1750-1800,"Anomabu, Adja, Agga",France,5.1761,-1.1233,3777,blue
+1800,1750-1800,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,98411,red
+1800,1750-1800,"Anomabu, Adja, Agga",Netherlands,5.1761,-1.1233,1940,orange
+1800,1750-1800,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,12999,green
+1800,1750-1800,Gold Coast + Bight of Benin + Bight of Biafra,France,5.1761,-1.1233,333,blue
+1800,1750-1800,"Gold Coast, Fr. definition",France,5.1761,-1.1233,52879,blue
+1800,1750-1800,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,581,purple
+1800,1750-1800,Windward + Ivory + Gold +  Benin,Other,5.1761,-1.1233,663,grey
+1800,1750-1800,Windward + Ivory + Gold +  Benin,Great Britain,5.1761,-1.1233,2600,red
+1800,1750-1800,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,38934,orange
+1800,1750-1800,Christiansborg,Other,5.5469,-0.1833,8300,grey
+1800,1750-1800,Christiansborg,France,5.5469,-0.1833,440,blue
+1800,1750-1800,Christiansborg,USA,5.5469,-0.1833,156,green
+1800,1750-1800,Danish Gold Coast,Other,5.5469,-0.1833,7581,grey
+1800,1750-1800,Danish Gold Coast,Great Britain,5.5469,-0.1833,144,red
+1800,1750-1800,Accra,Other,5.55,-0.02,2182,grey
+1800,1750-1800,Accra,France,5.55,-0.02,4772,blue
+1800,1750-1800,Accra,Great Britain,5.55,-0.02,1088,red
+1800,1750-1800,Keta,France,5.9031,0.9868,107,blue
+1800,1750-1800,Little Popo,France,6.2273,1.5814,1690,blue
+1800,1750-1800,Little Popo,Netherlands,6.2273,1.5814,247,orange
+1800,1750-1800,Popo,Great Britain,6.2833,1.833,9376,red
+1800,1750-1800,Popo,Netherlands,6.2833,1.833,381,orange
+1800,1750-1800,Popo,USA,6.2833,1.833,56,green
+1800,1750-1800,Whydah,France,6.363,2.085,50197,blue
+1800,1750-1800,Whydah,Great Britain,6.363,2.085,25060,red
+1800,1750-1800,Whydah,Netherlands,6.363,2.085,798,orange
+1800,1750-1800,Whydah,Portugal,6.363,2.085,23669,purple
+1800,1750-1800,Whydah,USA,6.363,2.085,383,green
+1800,1750-1800,"Bight of Benin, port unspecified",Other,5,2.1,73,grey
+1800,1750-1800,"Bight of Benin, port unspecified",France,5,2.1,10254,blue
+1800,1750-1800,"Bight of Benin, port unspecified",Great Britain,5,2.1,11518,red
+1800,1750-1800,"Bight of Benin, port unspecified",Netherlands,5,2.1,351,orange
+1800,1750-1800,"Bight of Benin, port unspecified",Portugal,5,2.1,2455,purple
+1800,1750-1800,"Bight of Benin, port unspecified",USA,5,2.1,162,green
+1800,1750-1800,Benin,France,6.379,2.4513,4837,blue
+1800,1750-1800,Benin,Great Britain,6.379,2.4513,24355,red
+1800,1750-1800,Benin,Portugal,6.379,2.4513,271,purple
+1800,1750-1800,Ardra,France,6.379,2.451324,2034,blue
+1800,1750-1800,Ardra,Portugal,6.379,2.451324,353,purple
+1800,1750-1800,Porto Novo,France,6.4969,2.6289,31286,blue
+1800,1750-1800,Porto Novo,Great Britain,6.4969,2.6289,3779,red
+1800,1750-1800,Porto Novo,Portugal,6.4969,2.6289,9850,purple
+1800,1750-1800,Badagry,France,6.415,2.88,18638,blue
+1800,1750-1800,Badagry,Great Britain,6.415,2.88,636,red
+1800,1750-1800,Badagry,Portugal,6.415,2.88,6900,purple
+1800,1750-1800,Epe,France,6.6055,3.947,6488,blue
+1800,1750-1800,Epe,Portugal,6.6055,3.947,5484,purple
+1800,1750-1800,Iles Plantain,Great Britain,0.255436,6.602781,345,red
+1800,1750-1800,São Tomé,Portugal,0.34523,6.7371,1778,purple
+1800,1750-1800,São Tomé,Spain,0.34523,6.7371,97,yellow
+1800,1750-1800,São Tomé or Princes Island,Portugal,0.34523,6.7371,475,purple
+1800,1750-1800,New Calabar,France,4.5502,6.9783,276,blue
+1800,1750-1800,New Calabar,Great Britain,4.5502,6.9783,53444,red
+1800,1750-1800,Bassa,France,7.7702,7.0498,118,blue
+1800,1750-1800,Bassa,Great Britain,7.7702,7.0498,23327,red
+1800,1750-1800,Bonny,France,4.4142,7.1898,9648,blue
+1800,1750-1800,Bonny,Great Britain,4.4142,7.1898,268617,red
+1800,1750-1800,Bonny,Spain,4.4142,7.1898,230,yellow
+1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,6998,blue
+1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,38450,red
+1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Netherlands,2.833,8,200,orange
+1800,1750-1800,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Portugal,2.833,8,545,purple
+1800,1750-1800,Bights,Great Britain,2.8333,8,267,red
+1800,1750-1800,Calabar,France,4.982,8.3345,21593,blue
+1800,1750-1800,Calabar,Great Britain,4.982,8.3345,109246,red
+1800,1750-1800,River del Rey,Great Britain,4.5352,8.7426,270,red
+1800,1750-1800,Fernando Po,Spain,3.6198,8.7481,29,yellow
+1800,1750-1800,Cap Lopez,France,-0.7726,8.7812,1020,blue
+1800,1750-1800,Cap Lopez,Great Britain,-0.7726,8.7812,849,red
+1800,1750-1800,Bimbia,Great Britain,4.066,9.4,1124,red
+1800,1750-1800,Cameroons,Great Britain,4.0449,9.6855,22300,red
+1800,1750-1800,Cameroons,USA,4.0449,9.6855,45,green
+1800,1750-1800,Cameroons River,Great Britain,4.0833,9.7,3010,red
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,172540,blue
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,127018,red
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,593,orange
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,663,purple
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1324,yellow
+1800,1750-1800,Mayumba,France,-3.4259,10.6567,690,blue
+1800,1750-1800,Mayumba,Great Britain,-3.4259,10.6567,331,red
+1800,1750-1800,Mayumba,Spain,-3.4259,10.6567,350,yellow
+1800,1750-1800,Loango,France,-4.4925,11.2558,36361,blue
+1800,1750-1800,Loango,Great Britain,-4.4925,11.2558,8355,red
+1800,1750-1800,Loango,Netherlands,-4.4925,11.2558,1353,orange
+1800,1750-1800,Boary,Netherlands,-4.49257,11.25584,1779,orange
+1800,1750-1800,Gabon,France,-0.8037,11.6094,6940,blue
+1800,1750-1800,Gabon,Great Britain,-0.8037,11.6094,8820,red
+1800,1750-1800,Gabon,Netherlands,-0.8037,11.6094,1048,orange
+1800,1750-1800,Gabon,Other,-0.8037,11.6094,109,grey
+1800,1750-1800,Gabon,USA,-0.8037,11.6094,333,green
+1800,1750-1800,Congo North,Other,-4.769,11.866,100,grey
+1800,1750-1800,Congo North,France,-4.769,11.866,914,blue
+1800,1750-1800,Congo North,Great Britain,-4.769,11.866,712,red
+1800,1750-1800,Congo North,Netherlands,-4.769,11.866,26490,orange
+1800,1750-1800,Malembo,France,-5.3384,12.1876,71309,blue
+1800,1750-1800,Malembo,Great Britain,-5.3384,12.1876,14486,red
+1800,1750-1800,Malembo,Netherlands,-5.3384,12.1876,18768,orange
+1800,1750-1800,Malembo,Spain,-5.3384,12.1876,300,yellow
+1800,1750-1800,Cabinda,France,-5.57,12.2,36024,blue
+1800,1750-1800,Cabinda,Great Britain,-5.57,12.2,5750,red
+1800,1750-1800,Cabinda,Netherlands,-5.57,12.2,5589,orange
+1800,1750-1800,Cabinda,Portugal,-5.57,12.2,1251,purple
+1800,1750-1800,Congo River,France,-6.07,12.45,1653,blue
+1800,1750-1800,Congo River,Great Britain,-6.07,12.45,13859,red
+1800,1750-1800,Ambriz,France,-7.8499,13.1167,3171,blue
+1800,1750-1800,Ambriz,Great Britain,-7.8499,13.1167,11624,red
+1800,1750-1800,St. Paul de Loanda,Portugal,-8.80407,13.2333,212738,purple
+1800,1750-1800,Benguela,France,-12.59,13.42,331,blue
+1800,1750-1800,Benguela,Portugal,-12.59,13.42,44351,purple
+1800,1750-1800,Benguela,Spain,-12.59,13.42,541,yellow
+1800,1750-1800,Cape of Good Hope,Spain,-34.21,18.28,258,yellow
+1800,1750-1800,Quaqua,Great Britain,-28.5011,28.7719,175,red
+1800,1750-1800,Lourenço Marques,France,-25.9692,32.5732,386,blue
+1800,1750-1800,Delagoa,Great Britain,-26.0828,32.7633,453,red
+1800,1750-1800,Sofala,Great Britain,-19,34.75,352,red
+1800,1750-1800,Galam,Great Britain,32.4612,35.0211,291,red
+1800,1750-1800,Galam,Portugal,32.4612,35.0211,297,purple
+1800,1750-1800,Galam,USA,32.4612,35.0211,155,green
+1800,1750-1800,Mozambique,France,-17.74087,35.3777,26242,blue
+1800,1750-1800,Mozambique,Portugal,-17.74087,35.3777,4838,purple
+1800,1750-1800,Mozambique,Spain,-17.74087,35.3777,1321,yellow
+1800,1750-1800,Mozambique,USA,-17.74087,35.3777,1397,green
+1800,1750-1800,Quilimane,Portugal,-17.85,36.92,201,purple
+1800,1750-1800,Dembia,Great Britain,12.4099,37.2544,147,red
+1800,1750-1800,Momboza or Zanzibar,France,-6.1563,39.1927,476,blue
+1800,1750-1800,Kilwa,France,-8.9659,39.4971,4086,blue
+1800,1750-1800,Ibo,France,-12.3448,40.5891,820,blue
+1800,1750-1800,Quirimba,France,-12.4264,40.6069,504,blue
+1800,1750-1800,"Southeast Africa and Indian Ocean islands, port unspecified",France,-18.7669,46.8691,2957,blue
+1800,1750-1800,"Southeast Africa and Indian Ocean islands, port unspecified",Spain,-18.7669,46.8691,28,yellow
+1800,1750-1800,St. Paul,Great Britain,-21.0453,55.3365,287,red
+1800,1750-1800,Mascarene Islands,France,-20.7167,56.6167,696,blue
+1800,1750-1800,Mauritius (Ile de France),France,-20.3484,57.5522,92,blue
+1850,1800-1850,Côte de Malaguette (runs through to Cape Palmas on Windward Coast),France,6.4281,-9.4295,542,blue
+1850,1800-1850,Windward Coast (Nunez - Assini),Great Britain,6.4281,-9.4295,6577,red
+1850,1800-1850,Windward Coast (Nunez - Assini),USA,6.4281,-9.4295,629,green
+1850,1800-1850,"Windward Coast, port unspecified",Other,6.4281,-9.4295,120,grey
+1850,1800-1850,"Windward Coast, port unspecified",France,6.4281,-9.4295,183,blue
+1850,1800-1850,"Windward Coast, port unspecified",Great Britain,6.4281,-9.4295,2475,red
+1850,1800-1850,"Windward Coast, port unspecified",Portugal,6.4281,-9.4295,331,purple
+1850,1800-1850,"Windward Coast, port unspecified",Spain,6.4281,-9.4295,859,yellow
+1850,1800-1850,"Windward Coast, port unspecified",USA,6.4281,-9.4295,438,green
+1850,1800-1850,Cape Verde Islands,Other,16.54,-23.04,490,grey
+1850,1800-1850,Cape Verde Islands,France,16.54,-23.04,1134,blue
+1850,1800-1850,Cape Verde Islands,Portugal,16.54,-23.04,2548,purple
+1850,1800-1850,Cape Verde Islands,Spain,16.54,-23.04,596,yellow
+1850,1800-1850,Senegal,Other,14.72,-17.47,1071,grey
+1850,1800-1850,Senegal,France,14.72,-17.47,5783,blue
+1850,1800-1850,Senegal,Other,14.72,-17.47,858,grey
+1850,1800-1850,Senegal,Portugal,14.72,-17.47,242,purple
+1850,1800-1850,Senegal,Spain,14.72,-17.47,163,yellow
+1850,1800-1850,Senegal,Other,14.72,-17.47,103,grey
+1850,1800-1850,Senegal,USA,14.72,-17.47,1648,green
+1850,1800-1850,French Africa (Goree or Senegal),Other,14.6679,-17.3989,168,grey
+1850,1800-1850,French Africa (Goree or Senegal),USA,14.6679,-17.3989,80,green
+1850,1800-1850,Cacheu,Other,12,-16.1667,148,grey
+1850,1800-1850,Cacheu,Great Britain,12,-16.1667,237,red
+1850,1800-1850,Cacheu,Portugal,12,-16.1667,5327,purple
+1850,1800-1850,Bissagos,France,11.25,-16.083,837,blue
+1850,1800-1850,Gallinhas,Other,11.4667,-15.6833,3408,grey
+1850,1800-1850,Gallinhas,France,11.4667,-15.6833,10603,blue
+1850,1800-1850,Gallinhas,Great Britain,11.4667,-15.6833,1632,red
+1850,1800-1850,Gallinhas,Netherlands,11.4667,-15.6833,180,orange
+1850,1800-1850,Gallinhas,Portugal,11.4667,-15.6833,4397,purple
+1850,1800-1850,Gallinhas,Spain,11.4667,-15.6833,11053,yellow
+1850,1800-1850,Gallinhas,USA,11.4667,-15.6833,3712,green
+1850,1800-1850,Bissau,Other,11.86113,-15.5859,895,grey
+1850,1800-1850,Bissau,France,11.86113,-15.5859,215,blue
+1850,1800-1850,Bissau,Portugal,11.86113,-15.5859,7210,purple
+1850,1800-1850,Bissau,Spain,11.86113,-15.5859,1442,yellow
+1850,1800-1850,Casamance,France,13.0153,-15.3177,350,blue
+1850,1800-1850,Gambia,Other,13.4432,-15.3101,82,grey
+1850,1800-1850,Gambia,France,13.4432,-15.3101,179,blue
+1850,1800-1850,Gambia,Great Britain,13.4432,-15.3101,1446,red
+1850,1800-1850,Gambia,Other,13.4432,-15.3101,255,grey
+1850,1800-1850,Gambia,Portugal,13.4432,-15.3101,95,purple
+1850,1800-1850,Gambia,Spain,13.4432,-15.3101,1031,yellow
+1850,1800-1850,Gambia,USA,13.4432,-15.3101,2795,green
+1850,1800-1850,Rio Nunez,Great Britain,10.833,-14.533,772,red
+1850,1800-1850,Rio Nunez,Portugal,10.833,-14.533,85,purple
+1850,1800-1850,Rio Nunez,Spain,10.833,-14.533,856,yellow
+1850,1800-1850,Rio Pongo,Other,10.05,-14.065,513,grey
+1850,1800-1850,Rio Pongo,Other,10.05,-14.065,464,grey
+1850,1800-1850,Rio Pongo,France,10.05,-14.065,902,blue
+1850,1800-1850,Rio Pongo,Great Britain,10.05,-14.065,3020,red
+1850,1800-1850,Rio Pongo,Portugal,10.05,-14.065,1342,purple
+1850,1800-1850,Rio Pongo,Spain,10.05,-14.065,4161,yellow
+1850,1800-1850,Rio Pongo,USA,10.05,-14.065,4334,green
+1850,1800-1850,Iles de Los,France,9.4769,-13.7855,278,blue
+1850,1800-1850,Iles de Los,Great Britain,9.4769,-13.7855,513,red
+1850,1800-1850,Iles de Los,USA,9.4769,-13.7855,3416,green
+1850,1800-1850,Sierra Leone estuary,Great Britain,8.48444,-13.23444,5448,red
+1850,1800-1850,Sierra Leone estuary,USA,8.48444,-13.23444,1323,green
+1850,1800-1850,Senegambia or Sierra Leone,Great Britain,8.4844,-13.2344,541,red
+1850,1800-1850,Senegambia or Sierra Leone,Spain,8.4844,-13.2344,284,yellow
+1850,1800-1850,Bance Island (Ben's Island),Great Britain,8.5667,-13.033,2133,red
+1850,1800-1850,Bance Island (Ben's Island),Other,8.5667,-13.033,100,grey
+1850,1800-1850,"Sierra Leone, port unspecified",Other,8.57,-13.03,716,grey
+1850,1800-1850,"Sierra Leone, port unspecified",France,8.57,-13.03,1737,blue
+1850,1800-1850,"Sierra Leone, port unspecified",Netherlands,8.57,-13.03,32,orange
+1850,1800-1850,"Sierra Leone, port unspecified",Portugal,8.57,-13.03,521,purple
+1850,1800-1850,"Sierra Leone, port unspecified",Spain,8.57,-13.03,1744,yellow
+1850,1800-1850,"Sierra Leone, port unspecified",USA,8.57,-13.03,295,green
+1850,1800-1850,Sherbro,France,7.31,-12.3,2567,blue
+1850,1800-1850,Sherbro,Portugal,7.31,-12.3,1644,purple
+1850,1800-1850,Sherbro,Spain,7.31,-12.3,1382,yellow
+1850,1800-1850,Sherbro,USA,7.31,-12.3,361,green
+1850,1800-1850,Cape Mount (Cape Grand Mount),France,7.133,-11.05,1229,blue
+1850,1800-1850,Cape Mount (Cape Grand Mount),Great Britain,7.133,-11.05,3802,red
+1850,1800-1850,Cape Mount (Cape Grand Mount),Netherlands,7.133,-11.05,150,orange
+1850,1800-1850,Cape Mount (Cape Grand Mount),Spain,7.133,-11.05,422,yellow
+1850,1800-1850,Cape Mount (Cape Grand Mount),Other,7.133,-11.05,87,grey
+1850,1800-1850,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,1962,green
+1850,1800-1850,Grand Mesurado,France,6.2945,-10.7452,1413,blue
+1850,1800-1850,Grand Mesurado,Great Britain,6.2945,-10.7452,810,red
+1850,1800-1850,Grand Mesurado,Spain,6.2945,-10.7452,162,yellow
+1850,1800-1850,Little Bassa,Spain,6.025,-10.2099,187,yellow
+1850,1800-1850,Trade Town,Spain,5.7844,-9.8463,13,yellow
+1850,1800-1850,Grand Bassa,France,6.233,-9.833,552,blue
+1850,1800-1850,Grand Bassa,Portugal,6.233,-9.833,325,purple
+1850,1800-1850,Grand Bassa,Spain,6.233,-9.833,222,yellow
+1850,1800-1850,"Lagos, Onim",Other,6.5244,3.3792,24567,grey
+1850,1800-1850,"Lagos, Onim",France,6.5244,3.3792,911,blue
+1850,1800-1850,"Lagos, Onim",Great Britain,6.5244,3.3792,6642,red
+1850,1800-1850,"Lagos, Onim",Portugal,6.5244,3.3792,20703,purple
+1850,1800-1850,"Lagos, Onim",Spain,6.5244,3.3792,6220,yellow
+1850,1800-1850,"Lagos, Onim",USA,6.5244,3.3792,2095,green
+1850,1800-1850,Cape Lahou,France,5.1365,-5.026,105,blue
+1850,1800-1850,Cape Lahou,Great Britain,5.1365,-5.026,346,red
+1850,1800-1850,Cape Lahou,Netherlands,5.1365,-5.026,582,orange
+1850,1800-1850,Cape Lahou,Portugal,5.1365,-5.026,19,purple
+1850,1800-1850,Costa da Mina,Other,5.0827,-1.348,1878,grey
+1850,1800-1850,Costa da Mina,Portugal,5.0827,-1.348,63140,purple
+1850,1800-1850,Costa da Mina,Spain,5.0827,-1.348,1507,yellow
+1850,1800-1850,Elmina,Great Britain,5.1053,-1.3421,304,red
+1850,1800-1850,Elmina,Portugal,5.1053,-1.3421,131,purple
+1850,1800-1850,Elmina,USA,5.1053,-1.3421,424,green
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,411,grey
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,59020,grey
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,8092,grey
+1850,1800-1850,"Africa., port unspecified",France,6.6111,20.9394,81818,blue
+1850,1800-1850,"Africa., port unspecified",Great Britain,6.6111,20.9394,49861,red
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,149,grey
+1850,1800-1850,"Africa., port unspecified",Netherlands,6.6111,20.9394,1326,orange
+1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,73314,purple
+1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,1067,purple
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,340,grey
+1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,255647,yellow
+1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,2372,yellow
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,647,grey
+1850,1800-1850,"Africa., port unspecified",USA,6.6111,20.9394,34036,green
+1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,567,grey
+1850,1800-1850,"Gold Coast, port unspecified",Other,5.1036,-1.2411,273,grey
+1850,1800-1850,"Gold Coast, port unspecified",France,5.1036,-1.2411,376,blue
+1850,1800-1850,"Gold Coast, port unspecified",Great Britain,5.1036,-1.2411,28717,red
+1850,1800-1850,"Gold Coast, port unspecified",Portugal,5.1036,-1.2411,1567,purple
+1850,1800-1850,"Gold Coast, port unspecified",Spain,5.1036,-1.2411,808,yellow
+1850,1800-1850,"Gold Coast, port unspecified",USA,5.1036,-1.2411,5927,green
+1850,1800-1850,Cape Coast Castle,Great Britain,5.1,-1.24,8000,red
+1850,1800-1850,Cape Coast Castle,USA,5.1,-1.24,1188,green
+1850,1800-1850,"Anomabu, Adja, Agga",Other,5.1761,-1.1233,364,grey
+1850,1800-1850,"Anomabu, Adja, Agga",France,5.1761,-1.1233,385,blue
+1850,1800-1850,"Anomabu, Adja, Agga",Great Britain,5.1761,-1.1233,1300,red
+1850,1800-1850,"Anomabu, Adja, Agga",Spain,5.1761,-1.1233,367,yellow
+1850,1800-1850,"Anomabu, Adja, Agga",USA,5.1761,-1.1233,317,green
+1850,1800-1850,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,530,purple
+1850,1800-1850,Windward + Ivory + Gold +  Benin,France,5.1761,-1.1233,164,blue
+1850,1800-1850,Windward + Ivory + Gold +  Benin,Netherlands,5.1761,-1.1233,95,orange
+1850,1800-1850,Windward + Ivory + Gold +  Benin,Portugal,5.1761,-1.1233,432,purple
+1850,1800-1850,Windward + Ivory + Gold +  Benin,USA,5.1761,-1.1233,385,green
+1850,1800-1850,Christiansborg,Other,5.5469,-0.1833,1736,grey
+1850,1800-1850,Christiansborg,Other,5.5469,-0.1833,82,grey
+1850,1800-1850,Accra,Other,5.55,-0.02,295,grey
+1850,1800-1850,Accra,Great Britain,5.55,-0.02,2813,red
+1850,1800-1850,Accra,Portugal,5.55,-0.02,317,purple
+1850,1800-1850,Accra,Spain,5.55,-0.02,556,yellow
+1850,1800-1850,Accra,USA,5.55,-0.02,291,green
+1850,1800-1850,Keta,Other,5.9031,0.9868,43,grey
+1850,1800-1850,Keta,Spain,5.9031,0.9868,9,yellow
+1850,1800-1850,Little Popo,Spain,6.2273,1.5814,3,yellow
+1850,1800-1850,Popo,Other,6.2833,1.833,1147,grey
+1850,1800-1850,Popo,France,6.2833,1.833,34,blue
+1850,1800-1850,Popo,Great Britain,6.2833,1.833,484,red
+1850,1800-1850,Popo,Portugal,6.2833,1.833,1391,purple
+1850,1800-1850,Popo,Spain,6.2833,1.833,1935,yellow
+1850,1800-1850,Popo,USA,6.2833,1.833,489,green
+1850,1800-1850,Whydah,Other,6.363,2.085,10267,grey
+1850,1800-1850,Whydah,France,6.363,2.085,2211,blue
+1850,1800-1850,Whydah,Great Britain,6.363,2.085,2201,red
+1850,1800-1850,Whydah,Other,6.363,2.085,490,grey
+1850,1800-1850,Whydah,Portugal,6.363,2.085,12299,purple
+1850,1800-1850,Whydah,Spain,6.363,2.085,6169,yellow
+1850,1800-1850,Whydah,USA,6.363,2.085,1152,green
+1850,1800-1850,"Bight of Benin, port unspecified",Other,5,2.1,3993,grey
+1850,1800-1850,"Bight of Benin, port unspecified",Other,5,2.1,81,grey
+1850,1800-1850,"Bight of Benin, port unspecified",France,5,2.1,676,blue
+1850,1800-1850,"Bight of Benin, port unspecified",Great Britain,5,2.1,616,red
+1850,1800-1850,"Bight of Benin, port unspecified",Portugal,5,2.1,2093,purple
+1850,1800-1850,"Bight of Benin, port unspecified",Spain,5,2.1,1754,yellow
+1850,1800-1850,"Bight of Benin, port unspecified",USA,5,2.1,772,green
+1850,1800-1850,Benin,Other,6.379,2.4513,166,grey
+1850,1800-1850,Benin,France,6.379,2.4513,683,blue
+1850,1800-1850,Benin,Great Britain,6.379,2.4513,255,red
+1850,1800-1850,Benin,Portugal,6.379,2.4513,571,purple
+1850,1800-1850,Porto Novo,Other,6.4969,2.6289,1417,grey
+1850,1800-1850,Porto Novo,Great Britain,6.4969,2.6289,669,red
+1850,1800-1850,Porto Novo,Portugal,6.4969,2.6289,3559,purple
+1850,1800-1850,Porto Novo,Spain,6.4969,2.6289,490,yellow
+1850,1800-1850,Badagry,Other,6.415,2.88,1756,grey
+1850,1800-1850,Badagry,Great Britain,6.415,2.88,615,red
+1850,1800-1850,Badagry,Portugal,6.415,2.88,3779,purple
+1850,1800-1850,Badagry,Spain,6.415,2.88,205,yellow
+1850,1800-1850,Ife,Portugal,7.4905,4.5521,507,purple
+1850,1800-1850,River Brass,France,4.317,6.224,1458,blue
+1850,1800-1850,River Brass,Other,4.317,6.224,322,grey
+1850,1800-1850,River Brass,Portugal,4.317,6.224,597,purple
+1850,1800-1850,River Brass,Spain,4.317,6.224,1943,yellow
+1850,1800-1850,Iles Plantain,Spain,0.255436,6.602781,158,yellow
+1850,1800-1850,Costa de Africa (mainland coast around S Tome/Principe),Portugal,0.34523,6.7371,214,purple
+1850,1800-1850,Costa de Africa (mainland coast around S Tome/Principe),Spain,0.34523,6.7371,148,yellow
+1850,1800-1850,São Tomé,France,0.34523,6.7371,5318,blue
+1850,1800-1850,São Tomé,Portugal,0.34523,6.7371,6782,purple
+1850,1800-1850,São Tomé,Spain,0.34523,6.7371,18040,yellow
+1850,1800-1850,São Tomé,USA,0.34523,6.7371,73,green
+1850,1800-1850,São Tomé or Princes Island,Portugal,0.34523,6.7371,12871,purple
+1850,1800-1850,New Calabar,Great Britain,4.5502,6.9783,8744,red
+1850,1800-1850,New Calabar,Spain,4.5502,6.9783,1768,yellow
+1850,1800-1850,Bassa,France,7.7702,7.0498,980,blue
+1850,1800-1850,Bassa,Great Britain,7.7702,7.0498,1433,red
+1850,1800-1850,Bonny,Other,4.4142,7.1898,510,grey
+1850,1800-1850,Bonny,France,4.4142,7.1898,27438,blue
+1850,1800-1850,Bonny,Great Britain,4.4142,7.1898,51557,red
+1850,1800-1850,Bonny,Portugal,4.4142,7.1898,6880,purple
+1850,1800-1850,Bonny,Spain,4.4142,7.1898,17763,yellow
+1850,1800-1850,Bonny,USA,4.4142,7.1898,966,green
+1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",France,2.833,8,2268,blue
+1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Great Britain,2.833,8,4136,red
+1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Portugal,2.833,8,395,purple
+1850,1800-1850,"Bight of Biafra and Gulf of Guinea Islands, port unspecified",Spain,2.833,8,2735,yellow
+1850,1800-1850,Bights,Other,2.8333,8,541,grey
+1850,1800-1850,Bights,France,2.8333,8,1106,blue
+1850,1800-1850,Bights,Portugal,2.8333,8,1092,purple
+1850,1800-1850,Bights,Spain,2.8333,8,234,yellow
+1850,1800-1850,Calabar,Other,4.982,8.3345,574,grey
+1850,1800-1850,Calabar,France,4.982,8.3345,9261,blue
+1850,1800-1850,Calabar,Great Britain,4.982,8.3345,14131,red
+1850,1800-1850,Calabar,Netherlands,4.982,8.3345,53,orange
+1850,1800-1850,Calabar,Portugal,4.982,8.3345,7883,purple
+1850,1800-1850,Calabar,Spain,4.982,8.3345,5731,yellow
+1850,1800-1850,Calabar,USA,4.982,8.3345,300,green
+1850,1800-1850,Cap Lopez,Other,-0.7726,8.7812,847,grey
+1850,1800-1850,Cap Lopez,France,-0.7726,8.7812,830,blue
+1850,1800-1850,Cap Lopez,Portugal,-0.7726,8.7812,1475,purple
+1850,1800-1850,Cap Lopez,Spain,-0.7726,8.7812,1651,yellow
+1850,1800-1850,Cap Lopez,Other,-0.7726,8.7812,182,grey
+1850,1800-1850,Corisco,Spain,0.9167,9.3167,2,yellow
+1850,1800-1850,Corisco,USA,0.9167,9.3167,673,green
+1850,1800-1850,Bimbia,Portugal,4.066,9.4,817,purple
+1850,1800-1850,Bimbia,Spain,4.066,9.4,269,yellow
+1850,1800-1850,Cameroons,Great Britain,4.0449,9.6855,5860,red
+1850,1800-1850,Cameroons,Portugal,4.0449,9.6855,1673,purple
+1850,1800-1850,Cameroons,Spain,4.0449,9.6855,369,yellow
+1850,1800-1850,Cameroons River,Other,4.0833,9.7,1857,grey
+1850,1800-1850,Cameroons River,Great Britain,4.0833,9.7,179,red
+1850,1800-1850,Cameroons River,Portugal,4.0833,9.7,2404,purple
+1850,1800-1850,Cameroons River,Spain,4.0833,9.7,560,yellow
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,8405,grey
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,7110,blue
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,29189,red
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,797,grey
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,18542,purple
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,788,grey
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1492,yellow
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",USA,-3.4426,10.6563,2761,green
+1850,1800-1850,"West Central Africa and St. Helena, port unspecified",Other,-3.4426,10.6563,1798,grey
+1850,1800-1850,Mayumba,France,-3.4259,10.6567,273,blue
+1850,1800-1850,Mayumba,Portugal,-3.4259,10.6567,212,purple
+1850,1800-1850,Mayumba,Spain,-3.4259,10.6567,210,yellow
+1850,1800-1850,Loango,Other,-4.4925,11.2558,852,grey
+1850,1800-1850,Loango,Great Britain,-4.4925,11.2558,3697,red
+1850,1800-1850,Loango,Spain,-4.4925,11.2558,5307,yellow
+1850,1800-1850,Loango,USA,-4.4925,11.2558,3354,green
+1850,1800-1850,Gabon,Other,-0.8037,11.6094,2208,grey
+1850,1800-1850,Gabon,France,-0.8037,11.6094,3029,blue
+1850,1800-1850,Gabon,Great Britain,-0.8037,11.6094,2974,red
+1850,1800-1850,Gabon,Portugal,-0.8037,11.6094,3544,purple
+1850,1800-1850,Gabon,Spain,-0.8037,11.6094,868,yellow
+1850,1800-1850,Congo North,Other,-4.769,11.866,816,grey
+1850,1800-1850,Congo North,France,-4.769,11.866,231,blue
+1850,1800-1850,Congo North,Great Britain,-4.769,11.866,2307,red
+1850,1800-1850,Congo North,Netherlands,-4.769,11.866,323,orange
+1850,1800-1850,Congo North,Spain,-4.769,11.866,146,yellow
+1850,1800-1850,Congo North,USA,-4.769,11.866,674,green
+1850,1800-1850,Malembo,Other,-5.3384,12.1876,19534,grey
+1850,1800-1850,Malembo,Great Britain,-5.3384,12.1876,3702,red
+1850,1800-1850,Malembo,Portugal,-5.3384,12.1876,7024,purple
+1850,1800-1850,Cabinda,Other,-5.57,12.2,22736,grey
+1850,1800-1850,Cabinda,France,-5.57,12.2,307,blue
+1850,1800-1850,Cabinda,Great Britain,-5.57,12.2,2213,red
+1850,1800-1850,Cabinda,Portugal,-5.57,12.2,25325,purple
+1850,1800-1850,Cabinda,Spain,-5.57,12.2,3207,yellow
+1850,1800-1850,Cabinda,USA,-5.57,12.2,6419,green
+1850,1800-1850,Congo River,Other,-6.07,12.45,4450,grey
+1850,1800-1850,Congo River,Other,-6.07,12.45,562,grey
+1850,1800-1850,Congo River,Great Britain,-6.07,12.45,20138,red
+1850,1800-1850,Congo River,Portugal,-6.07,12.45,7585,purple
+1850,1800-1850,Congo River,Spain,-6.07,12.45,2881,yellow
+1850,1800-1850,Congo River,USA,-6.07,12.45,12487,green
+1850,1800-1850,Ambriz,Other,-7.8499,13.1167,16623,grey
+1850,1800-1850,Ambriz,France,-7.8499,13.1167,1494,blue
+1850,1800-1850,Ambriz,Great Britain,-7.8499,13.1167,20,red
+1850,1800-1850,Ambriz,Portugal,-7.8499,13.1167,8605,purple
+1850,1800-1850,Ambriz,Spain,-7.8499,13.1167,2338,yellow
+1850,1800-1850,Ambriz,USA,-7.8499,13.1167,1987,green
+1850,1800-1850,Coanza River,Portugal,-9.35,13.15,150,purple
+1850,1800-1850,Coanza River,Spain,-9.35,13.15,29,yellow
+1850,1800-1850,St. Paul de Loanda,Other,-8.80407,13.2333,34660,grey
+1850,1800-1850,St. Paul de Loanda,Portugal,-8.80407,13.2333,239503,purple
+1850,1800-1850,St. Paul de Loanda,Spain,-8.80407,13.2333,4885,yellow
+1850,1800-1850,St. Paul de Loanda,USA,-8.80407,13.2333,107,green
+1850,1800-1850,St. Paul de Loanda,Other,-8.80407,13.2333,401,grey
+1850,1800-1850,Benguela,Other,-12.59,13.42,16417,grey
+1850,1800-1850,Benguela,Other,-12.59,13.42,391,grey
+1850,1800-1850,Benguela,France,-12.59,13.42,490,blue
+1850,1800-1850,Benguela,Portugal,-12.59,13.42,101498,purple
+1850,1800-1850,Benguela,Spain,-12.59,13.42,1017,yellow
+1850,1800-1850,Benguela,USA,-12.59,13.42,905,green
+1850,1800-1850,Benguela,Other,-12.59,13.42,266,grey
+1850,1800-1850,Quicombo,Other,-11.433,14,315,grey
+1850,1800-1850,Cape of Good Hope,France,-34.21,18.28,273,blue
+1850,1800-1850,Lourenço Marques,Other,-25.9692,32.5732,1914,grey
+1850,1800-1850,Lourenço Marques,Portugal,-25.9692,32.5732,744,purple
+1850,1800-1850,Lourenço Marques,Other,-25.9692,32.5732,514,grey
+1850,1800-1850,Sofala,USA,-19,34.75,543,green
+1850,1800-1850,Galam,France,32.4612,35.0211,67,blue
+1850,1800-1850,Mozambique,Other,-17.74087,35.3777,5263,grey
+1850,1800-1850,Mozambique,Other,-17.74087,35.3777,512,grey
+1850,1800-1850,Mozambique,France,-17.74087,35.3777,1526,blue
+1850,1800-1850,Mozambique,Portugal,-17.74087,35.3777,47977,purple
+1850,1800-1850,Mozambique,Spain,-17.74087,35.3777,8738,yellow
+1850,1800-1850,Mozambique,USA,-17.74087,35.3777,5106,green
+1850,1800-1850,Inhambane,Portugal,-23.86723,35.37964,2077,purple
+1850,1800-1850,Inhambane,USA,-23.86723,35.37964,380,green
+1850,1800-1850,Quilimane,Other,-17.85,36.92,6485,grey
+1850,1800-1850,Quilimane,Portugal,-17.85,36.92,34405,purple
+1850,1800-1850,Quilimane,USA,-17.85,36.92,1403,green
+1850,1800-1850,Momboza or Zanzibar,Other,-6.1563,39.1927,332,grey
+1850,1800-1850,Zanzibar,France,-6.1563,39.1927,244,blue
+1850,1800-1850,Zanzibar,Spain,-6.1563,39.1927,3084,yellow
+1850,1800-1850,Zanzibar,USA,-6.1563,39.1927,91,green
+1850,1800-1850,Kilwa,France,-8.9659,39.4971,514,blue
+1850,1800-1850,Kilwa,Portugal,-8.9659,39.4971,455,purple
+1850,1800-1850,Kilwa,Spain,-8.9659,39.4971,639,yellow
+1850,1800-1850,Kilwa,USA,-8.9659,39.4971,228,green
+1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",France,-18.7669,46.8691,1616,blue
+1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",Portugal,-18.7669,46.8691,771,purple
+1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",Spain,-18.7669,46.8691,2863,yellow
+1850,1800-1850,"Southeast Africa and Indian Ocean islands, port unspecified",USA,-18.7669,46.8691,400,green
+1850,1800-1850,Madagascar,France,-25.033,46.9833,525,blue
+1850,1800-1850,Madagascar,Portugal,-25.033,46.9833,490,purple
+1850,1800-1850,Madagascar,Spain,-25.033,46.9833,220,yellow
+1900,1850-1900,Rio Pongo,USA,10.05,-14.065,489,green
+1900,1850-1900,"Lagos, Onim",Other,6.5244,3.3792,1879,grey
+1900,1850-1900,"Africa., port unspecified",Other,6.6111,20.9394,10836,grey
+1900,1850-1900,"Africa., port unspecified",Portugal,6.6111,20.9394,2955,purple
+1900,1850-1900,"Africa., port unspecified",Spain,6.6111,20.9394,10148,yellow
+1900,1850-1900,"Africa., port unspecified",USA,6.6111,20.9394,24606,green
+1900,1850-1900,Keta,USA,5.9031,0.9868,1171,green
+1900,1850-1900,Popo,USA,6.2833,1.833,760,green
+1900,1850-1900,Whydah,France,6.363,2.085,418,blue
+1900,1850-1900,Whydah,USA,6.363,2.085,2867,green
+1900,1850-1900,"Bight of Benin, port unspecified",Other,5,2.1,1104,grey
+1900,1850-1900,River Brass,USA,4.317,6.224,673,green
+1900,1850-1900,New Calabar,Other,4.5502,6.9783,152,grey
+1900,1850-1900,"West Central Africa and St. Helena, port unspecified",USA,-3.4426,10.6563,400,green
+1900,1850-1900,Loango,Portugal,-4.4925,11.2558,687,purple
+1900,1850-1900,Loango,Spain,-4.4925,11.2558,133,yellow
+1900,1850-1900,Loango,USA,-4.4925,11.2558,1927,green
+1900,1850-1900,Congo North,USA,-4.769,11.866,1502,green
+1900,1850-1900,Malembo,France,-5.3384,12.1876,714,blue
+1900,1850-1900,Cabinda,USA,-5.57,12.2,3465,green
+1900,1850-1900,Congo River,Other,-6.07,12.45,611,grey
+1900,1850-1900,Congo River,France,-6.07,12.45,673,blue
+1900,1850-1900,Congo River,Other,-6.07,12.45,1250,grey
+1900,1850-1900,Congo River,Spain,-6.07,12.45,989,yellow
+1900,1850-1900,Congo River,USA,-6.07,12.45,26517,green
+1900,1850-1900,Ambriz,USA,-7.8499,13.1167,3235,green
+1900,1850-1900,Benguela,Other,-12.59,13.42,1236,grey
+1900,1850-1900,Benguela,France,-12.59,13.42,490,blue
+1900,1850-1900,Benguela,Portugal,-12.59,13.42,300,purple
+1900,1850-1900,Benguela,Spain,-12.59,13.42,3,yellow
+1900,1850-1900,Benguela,USA,-12.59,13.42,632,green
+1900,1850-1900,Kilongo,USA,-5.5032,24.1272,1786,green
+1900,1850-1900,Mozambique,Spain,-17.74087,35.3777,2835,yellow
+1900,1850-1900,Mozambique,USA,-17.74087,35.3777,3525,green
+1900,1850-1900,Quilimane,Other,-17.85,36.92,1507,grey
+1900,1850-1900,Quilimane,USA,-17.85,36.92,1361,green
