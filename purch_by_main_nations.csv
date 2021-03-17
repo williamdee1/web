@@ -158,7 +158,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1700,1650-1700,Congo River,Spain,-6.07,12.45,800
 1700,1650-1700,St. Paul de Loanda,Great Britain,-8.80407,13.2333,1376
 1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,7582
-1700,1650-1700,St. Paul de Loanda,Portugal / Brazil,-8.80407,13.2333,600
+1700,1650-1700,St. Paul de Loanda,Portugal,-8.80407,13.2333,600
 1700,1650-1700,St. Paul de Loanda,Spain,-8.80407,13.2333,1100
 1700,1650-1700,Madagascar,Great Britain,-25.033,46.9833,6643
 1700,1650-1700,Madagascar,USA,-25.033,46.9833,1124
@@ -286,7 +286,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1750,1700-1750,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,23025
 1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,51941
 1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,455
-1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Portugal / Brazil,-3.4426,10.6563,688
+1750,1700-1750,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,688
 1750,1700-1750,Mayumba,Great Britain,-3.4259,10.6567,546
 1750,1700-1750,Loango,France,-4.4925,11.2558,18232
 1750,1700-1750,Loango,Great Britain,-4.4925,11.2558,9456
@@ -343,7 +343,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1800,1750-1800,Casamance,Great Britain,13.0153,-15.3177,110
 1800,1750-1800,Gambia,France,13.4432,-15.3101,2301
 1800,1750-1800,Gambia,Great Britain,13.4432,-15.3101,56455
-1800,1750-1800,Gambia,Spain / Uruguay,13.4432,-15.3101,0
+1800,1750-1800,Gambia,Spain,13.4432,-15.3101,0
 1800,1750-1800,Gambia,USA,13.4432,-15.3101,2439
 1800,1750-1800,Rio Nunez,Great Britain,10.833,-14.533,1391
 1800,1750-1800,Rio Nunez,USA,10.833,-14.533,594
@@ -495,7 +495,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1800,1750-1800,"West Central Africa and St. Helena, port unspecified",France,-3.4426,10.6563,172540
 1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Great Britain,-3.4426,10.6563,127018
 1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Netherlands,-3.4426,10.6563,593
-1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Portugal / Brazil,-3.4426,10.6563,663
+1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Portugal,-3.4426,10.6563,663
 1800,1750-1800,"West Central Africa and St. Helena, port unspecified",Spain,-3.4426,10.6563,1324
 1800,1750-1800,Mayumba,France,-3.4259,10.6567,690
 1800,1750-1800,Mayumba,Great Britain,-3.4259,10.6567,331
@@ -516,7 +516,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1800,1750-1800,Malembo,France,-5.3384,12.1876,71309
 1800,1750-1800,Malembo,Great Britain,-5.3384,12.1876,14486
 1800,1750-1800,Malembo,Netherlands,-5.3384,12.1876,18768
-1800,1750-1800,Malembo,Spain / Uruguay,-5.3384,12.1876,300
+1800,1750-1800,Malembo,Spain,-5.3384,12.1876,300
 1800,1750-1800,Cabinda,France,-5.57,12.2,36024
 1800,1750-1800,Cabinda,Great Britain,-5.57,12.2,5750
 1800,1750-1800,Cabinda,Netherlands,-5.57,12.2,5589
@@ -664,10 +664,10 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,149
 1850,1800-1850,"Africa., port unspecified",Netherlands,6.6111,20.9394,1326
 1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,73314
-1850,1800-1850,"Africa., port unspecified",Portugal / Brazil,6.6111,20.9394,1067
+1850,1800-1850,"Africa., port unspecified",Portugal,6.6111,20.9394,1067
 1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,340
 1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,255647
-1850,1800-1850,"Africa., port unspecified",Spain / Uruguay,6.6111,20.9394,2372
+1850,1800-1850,"Africa., port unspecified",Spain,6.6111,20.9394,2372
 1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,647
 1850,1800-1850,"Africa., port unspecified",USA,6.6111,20.9394,34036
 1850,1800-1850,"Africa., port unspecified",Other,6.6111,20.9394,567
