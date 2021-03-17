@@ -1,4 +1,4 @@
-time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_long,slaves_embarked,nat_color
+time_per,fifty_periods,main_place_slave_purch,Ship Registration,purch_lat,purch_long,slaves_embarked,nat_color
 1550,1500-1550,Cape Verde Islands,Spain,16.54,-23.04,1330,yellow
 1550,1500-1550,"Gold Coast, Fr. definition",Portugal,5.1761,-1.1233,359,purple
 1550,1500-1550,São Tomé,Portugal,0.34523,6.7371,359,purple
