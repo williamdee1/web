@@ -379,9 +379,9 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1800,1750-1800,Cape Mount (Cape Grand Mount),USA,7.133,-11.05,307
 1800,1750-1800,Grand Mesurado,France,6.2945,-10.7452,629
 1800,1750-1800,Grand Mesurado,Great Britain,6.2945,-10.7452,919
-1800,1750-1800,"Lagos, Onim",France,37.1,-8.67,4709
-1800,1750-1800,"Lagos, Onim",Great Britain,37.1,-8.67,6480
-1800,1750-1800,"Lagos, Onim",Portugal,37.1,-8.67,1994
+1800,1750-1800,"Lagos, Onim",France,6.5244,3.3792,4709
+1800,1750-1800,"Lagos, Onim",Great Britain,6.5244,3.3792,6480
+1800,1750-1800,"Lagos, Onim",Portugal,6.5244,3.3792,1994
 1800,1750-1800,Garroway Roads,Great Britain,4.56,-7.91571,148
 1800,1750-1800,Tabou,Great Britain,5.1012,-7.3517,358
 1800,1750-1800,Ivory Coast,Netherlands,7.54,-5.5471,318
@@ -641,12 +641,12 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1850,1800-1850,Grand Bassa,France,6.233,-9.833,552
 1850,1800-1850,Grand Bassa,Portugal,6.233,-9.833,325
 1850,1800-1850,Grand Bassa,Spain,6.233,-9.833,222
-1850,1800-1850,"Lagos, Onim",Brazil,37.1,-8.67,24567
-1850,1800-1850,"Lagos, Onim",France,37.1,-8.67,911
-1850,1800-1850,"Lagos, Onim",Great Britain,37.1,-8.67,6642
-1850,1800-1850,"Lagos, Onim",Portugal,37.1,-8.67,20703
-1850,1800-1850,"Lagos, Onim",Spain,37.1,-8.67,6220
-1850,1800-1850,"Lagos, Onim",USA,37.1,-8.67,2095
+1850,1800-1850,"Lagos, Onim",Brazil,6.5244,3.3792,24567
+1850,1800-1850,"Lagos, Onim",France,6.5244,3.3792,911
+1850,1800-1850,"Lagos, Onim",Great Britain,6.5244,3.3792,6642
+1850,1800-1850,"Lagos, Onim",Portugal,6.5244,3.3792,20703
+1850,1800-1850,"Lagos, Onim",Spain,6.5244,3.3792,6220
+1850,1800-1850,"Lagos, Onim",USA,6.5244,3.3792,2095
 1850,1800-1850,Cape Lahou,France,5.1365,-5.026,105
 1850,1800-1850,Cape Lahou,Great Britain,5.1365,-5.026,346
 1850,1800-1850,Cape Lahou,Netherlands,5.1365,-5.026,582
@@ -882,7 +882,7 @@ time_per,fifty_periods,main_place_slave_purch,country_reg_ship,purch_lat,purch_l
 1850,1800-1850,Madagascar,Portugal,-25.033,46.9833,490
 1850,1800-1850,Madagascar,Spain,-25.033,46.9833,220
 1900,1850-1900,Rio Pongo,USA,10.05,-14.065,489
-1900,1850-1900,"Lagos, Onim",Brazil,37.1,-8.67,1879
+1900,1850-1900,"Lagos, Onim",Brazil,6.5244,3.3792,1879
 1900,1850-1900,"Africa., port unspecified",Brazil,6.6111,20.9394,10836
 1900,1850-1900,"Africa., port unspecified",Portugal,6.6111,20.9394,2955
 1900,1850-1900,"Africa., port unspecified",Spain,6.6111,20.9394,10148
