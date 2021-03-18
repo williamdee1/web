@@ -1,0 +1,409 @@
+decade_end,country_reg_ship,fate,count
+1570,Great Britain,Natural hazard,4
+1570,Spain,African,1
+1580,France,Other Captor,2
+1590,Portugal,French,2
+1600,Portugal,African,1
+1600,Portugal,British,1
+1600,Portugal,Natural hazard,2
+1610,Other,Other Captor,1
+1610,Portugal,British,1
+1610,Portugal,Natural hazard,4
+1620,Netherlands,Natural hazard,1
+1620,Portugal,African,1
+1620,Portugal,Natural hazard,10
+1620,Spain,Natural hazard,2
+1630,Portugal,Other Captor,1
+1630,Portugal,Other Captor,1
+1630,Portugal,Natural hazard,1
+1640,Portugal,African,1
+1640,Portugal,Other Captor,2
+1640,Portugal,Natural hazard,3
+1640,Portugal,Other Captor,1
+1640,Portugal,Piracy,1
+1650,Great Britain,Other Captor,1
+1650,Great Britain,Natural hazard,1
+1650,Great Britain,Other Captor,2
+1650,Netherlands,Natural hazard,1
+1650,Portugal,Other Captor,3
+1650,Spain,Other Captor,1
+1660,Great Britain,British,2
+1660,Great Britain,Other Captor,8
+1660,Great Britain,Natural hazard,1
+1660,Great Britain,Piracy,2
+1660,Netherlands,British,1
+1660,Netherlands,Natural hazard,1
+1660,Netherlands,Other Captor,2
+1660,Portugal,Other Captor,5
+1660,Portugal,Natural hazard,2
+1670,Great Britain,British,2
+1670,Great Britain,Other Captor,16
+1670,Great Britain,Natural hazard,1
+1670,Netherlands,Other Captor,1
+1670,Netherlands,British,2
+1670,Netherlands,Natural hazard,3
+1670,Portugal,Natural hazard,1
+1680,Other,French,1
+1680,France,French,1
+1680,Great Britain,British,15
+1680,Great Britain,Other Captor,3
+1680,Great Britain,Natural hazard,1
+1680,Netherlands,French,1
+1680,Netherlands,Natural hazard,6
+1690,France,British,1
+1690,France,Other Captor,1
+1690,Great Britain,African,3
+1690,Great Britain,British,28
+1690,Great Britain,French,4
+1690,Great Britain,Natural hazard,11
+1690,Great Britain,Piracy,2
+1690,Netherlands,Natural hazard,3
+1690,Netherlands,Piracy,3
+1700,France,Natural hazard,1
+1700,Great Britain,British,1
+1700,Great Britain,Other Captor,1
+1700,Great Britain,Other Captor,1
+1700,Great Britain,French,16
+1700,Great Britain,Natural hazard,12
+1700,Great Britain,Other Captor,1
+1700,Great Britain,Piracy,3
+1700,Other,British,3
+1700,Other,French,1
+1700,Netherlands,French,1
+1700,Netherlands,Natural hazard,2
+1700,Netherlands,Piracy,2
+1700,Portugal,Other Captor,1
+1700,USA,British,1
+1700,USA,Piracy,1
+1710,Other,Natural hazard,3
+1710,France,British,1
+1710,France,Other Captor,1
+1710,France,Other Captor,1
+1710,France,French,1
+1710,France,Natural hazard,4
+1710,France,Other Captor,2
+1710,Great Britain,British,4
+1710,Great Britain,Other Captor,18
+1710,Great Britain,French,34
+1710,Great Britain,Natural hazard,27
+1710,Great Britain,Other Captor,1
+1710,Great Britain,Piracy,1
+1710,Other,Natural hazard,1
+1710,Netherlands,Other Captor,2
+1710,Netherlands,French,8
+1710,Netherlands,Natural hazard,7
+1710,Netherlands,Piracy,1
+1710,Portugal,French,2
+1720,France,Other Captor,2
+1720,France,Other Captor,1
+1720,France,French,1
+1720,France,Natural hazard,16
+1720,France,Other Captor,1
+1720,France,Piracy,4
+1720,Great Britain,African,5
+1720,Great Britain,Other Captor,2
+1720,Great Britain,Other Captor,1
+1720,Great Britain,French,4
+1720,Great Britain,Natural hazard,10
+1720,Great Britain,Other Captor,4
+1720,Great Britain,Piracy,19
+1720,Netherlands,French,1
+1720,Netherlands,Natural hazard,4
+1720,Portugal,Other Captor,9
+1720,Portugal,Other Captor,1
+1720,USA,African,1
+1730,France,African,1
+1730,France,Natural hazard,35
+1730,France,Other Captor,1
+1730,France,Piracy,2
+1730,Great Britain,African,5
+1730,Great Britain,British,6
+1730,Great Britain,Other Captor,1
+1730,Great Britain,Other Captor,1
+1730,Great Britain,French,1
+1730,Great Britain,Natural hazard,29
+1730,Great Britain,Other Captor,6
+1730,Great Britain,Piracy,6
+1730,Netherlands,Other Captor,1
+1730,Netherlands,Natural hazard,4
+1730,Netherlands,Other Captor,3
+1730,Netherlands,Piracy,1
+1730,Portugal,Other Captor,4
+1730,USA,African,2
+1730,USA,Other Captor,1
+1740,France,African,1
+1740,France,Other Captor,2
+1740,France,French,1
+1740,France,Natural hazard,32
+1740,France,Piracy,1
+1740,Great Britain,African,6
+1740,Great Britain,British,1
+1740,Great Britain,Other Captor,2
+1740,Great Britain,Other Captor,2
+1740,Great Britain,Natural hazard,19
+1740,Great Britain,Other Captor,4
+1740,Great Britain,Piracy,1
+1740,Netherlands,African,1
+1740,Netherlands,Natural hazard,2
+1740,Portugal,African,1
+1740,USA,African,1
+1740,USA,Natural hazard,5
+1750,France,African,4
+1750,France,British,28
+1750,France,Other Captor,4
+1750,France,Natural hazard,39
+1750,France,Piracy,1
+1750,Great Britain,African,7
+1750,Great Britain,British,1
+1750,Great Britain,Other Captor,11
+1750,Great Britain,Other Captor,1
+1750,Great Britain,French,15
+1750,Great Britain,Natural hazard,32
+1750,Great Britain,Other Captor,12
+1750,Great Britain,Piracy,3
+1750,Netherlands,Natural hazard,3
+1750,USA,African,1
+1750,USA,French,1
+1750,USA,Natural hazard,2
+1750,USA,Piracy,1
+1760,Other,African,1
+1760,Other,Natural hazard,1
+1760,France,African,3
+1760,France,British,32
+1760,France,Other Captor,2
+1760,France,French,1
+1760,France,Natural hazard,47
+1760,France,Piracy,1
+1760,Great Britain,African,15
+1760,Great Britain,Other Captor,9
+1760,Great Britain,French,81
+1760,Great Britain,Natural hazard,52
+1760,Great Britain,Other Captor,1
+1760,Great Britain,Piracy,8
+1760,Netherlands,British,2
+1760,USA,African,4
+1760,USA,British,1
+1760,USA,Other Captor,1
+1760,USA,Other Captor,1
+1760,USA,French,16
+1760,USA,Piracy,2
+1770,Other,Natural hazard,1
+1770,France,African,7
+1770,France,Natural hazard,35
+1770,Great Britain,African,22
+1770,Great Britain,British,2
+1770,Great Britain,Other Captor,8
+1770,Great Britain,Other Captor,2
+1770,Great Britain,French,33
+1770,Great Britain,Natural hazard,92
+1770,Great Britain,Other Captor,1
+1770,Great Britain,Piracy,2
+1770,Netherlands,Natural hazard,10
+1770,Portugal,African,1
+1770,Portugal,Other Captor,1
+1770,Portugal,Natural hazard,2
+1770,USA,African,2
+1770,USA,Other Captor,1
+1770,USA,French,7
+1770,USA,Natural hazard,4
+1770,USA,Other Captor,1
+1770,USA,Piracy,1
+1780,France,African,6
+1780,France,British,19
+1780,France,Other Captor,1
+1780,France,Natural hazard,47
+1780,France,Other Captor,1
+1780,France,Piracy,1
+1780,Great Britain,African,10
+1780,Great Britain,British,10
+1780,Great Britain,Other Captor,8
+1780,Great Britain,Other Captor,2
+1780,Great Britain,French,11
+1780,Great Britain,Natural hazard,73
+1780,Great Britain,Other Captor,1
+1780,Great Britain,US,21
+1780,Great Britain,Piracy,5
+1780,Netherlands,British,7
+1780,Netherlands,Natural hazard,3
+1780,Portugal,Other Captor,1
+1780,Portugal,Natural hazard,1
+1780,USA,British,1
+1790,Other,Natural hazard,3
+1790,France,African,8
+1790,France,British,1
+1790,France,Natural hazard,73
+1790,Great Britain,African,5
+1790,Great Britain,Other Captor,6
+1790,Great Britain,French,13
+1790,Great Britain,Natural hazard,77
+1790,Great Britain,US,1
+1790,Netherlands,African,2
+1790,Netherlands,British,7
+1790,Netherlands,Natural hazard,4
+1790,Portugal,African,1
+1790,USA,African,1
+1800,Other,British,1
+1800,Other,Natural hazard,1
+1800,Other,Piracy,1
+1800,France,British,25
+1800,France,Other Captor,1
+1800,France,Natural hazard,12
+1800,France,Other Captor,2
+1800,Great Britain,African,3
+1800,Great Britain,Other Captor,42
+1800,Great Britain,Other Captor,1
+1800,Great Britain,French,142
+1800,Great Britain,Natural hazard,150
+1800,Great Britain,Other Captor,5
+1800,Great Britain,Piracy,2
+1800,Netherlands,Natural hazard,1
+1800,Portugal,British,1
+1800,Portugal,Other Captor,2
+1800,Portugal,French,9
+1800,Portugal,Natural hazard,2
+1800,Spain,British,1
+1800,Spain,British,1
+1800,Spain,French,1
+1800,Spain,Natural hazard,1
+1800,Other,Natural hazard,1
+1800,USA,African,2
+1800,USA,British,5
+1800,USA,Other Captor,2
+1800,USA,French,3
+1800,USA,Natural hazard,9
+1800,USA,US,5
+1810,Other,Natural hazard,1
+1810,France,British,6
+1810,France,Other Captor,1
+1810,France,Natural hazard,1
+1810,France,Other Captor,2
+1810,Great Britain,African,2
+1810,Great Britain,British,8
+1810,Great Britain,Other Captor,26
+1810,Great Britain,Other Captor,1
+1810,Great Britain,Other Captor,2
+1810,Great Britain,French,68
+1810,Great Britain,Natural hazard,102
+1810,Great Britain,Other Captor,13
+1810,Great Britain,Piracy,3
+1810,Netherlands,British,1
+1810,Netherlands,Natural hazard,1
+1810,Portugal,British,7
+1810,Portugal,Natural hazard,3
+1810,Portugal,Other Captor,1
+1810,Spain,British,18
+1810,Spain,Other Captor,1
+1810,Spain,US,1
+1810,Spain,Piracy,1
+1810,Other,British,1
+1810,Other,Natural hazard,1
+1810,USA,African,5
+1810,USA,British,18
+1810,USA,Other Captor,2
+1810,USA,French,3
+1810,USA,Natural hazard,13
+1810,USA,US,3
+1810,USA,Piracy,2
+1820,France,African,1
+1820,France,British,12
+1820,France,French,49
+1820,France,Natural hazard,1
+1820,France,Piracy,1
+1820,Great Britain,British,1
+1820,Netherlands,British,1
+1820,Portugal,African,1
+1820,Portugal,British,64
+1820,Portugal,Other Captor,1
+1820,Portugal,Natural hazard,4
+1820,Portugal,Piracy,1
+1820,Spain,British,81
+1820,Spain,Other Captor,1
+1820,Spain,French,2
+1820,Spain,Other Captor,2
+1820,Spain,Natural hazard,3
+1820,Spain,US,6
+1820,Spain,Other Captor,3
+1820,Spain,Piracy,4
+1820,USA,British,5
+1830,Other,Other Captor,1
+1830,Other,British,53
+1830,Other,Piracy,2
+1830,France,Other Captor,1
+1830,France,British,27
+1830,France,Other Captor,1
+1830,France,Other Captor,1
+1830,France,French,135
+1830,France,Natural hazard,16
+1830,France,US,1
+1830,France,Piracy,1
+1830,Netherlands,British,2
+1830,Netherlands,Natural hazard,1
+1830,Portugal,African,1
+1830,Portugal,British,51
+1830,Portugal,French,1
+1830,Portugal,Natural hazard,2
+1830,Spain,British,54
+1830,Spain,Natural hazard,8
+1830,Spain,Piracy,1
+1830,USA,US,1
+1840,Other,British,24
+1840,France,Other Captor,1
+1840,France,British,1
+1840,France,French,4
+1840,Portugal,British,161
+1840,Portugal,Other Captor,1
+1840,Portugal,Natural hazard,4
+1840,Portugal,Other Captor,6
+1840,Spain,British,123
+1840,Spain,Natural hazard,1
+1840,USA,British,17
+1840,Other,British,1
+1850,Other,Other Captor,7
+1850,Other,British,112
+1850,Other,Other Captor,5
+1850,Other,French,1
+1850,Other,Natural hazard,6
+1850,Other,Other Captor,20
+1850,France,British,1
+1850,France,French,2
+1850,Other,British,1
+1850,Portugal,British,66
+1850,Portugal,French,1
+1850,Portugal,Other Captor,6
+1850,Spain,British,4
+1850,Spain,Natural hazard,1
+1850,Spain,Other Captor,2
+1850,USA,Other Captor,1
+1850,USA,British,5
+1850,USA,Natural hazard,2
+1850,USA,Other Captor,1
+1850,USA,US,17
+1860,Other,British,1
+1860,Other,Other Captor,2
+1860,Other,British,2
+1860,France,US,1
+1860,Other,British,4
+1860,Other,British,1
+1860,Portugal,Other Captor,1
+1860,Portugal,Natural hazard,2
+1860,Other,British,1
+1860,Spain,British,7
+1860,Spain,Natural hazard,1
+1860,Spain,Other Captor,2
+1860,Spain,US,1
+1860,USA,British,21
+1860,USA,Other Captor,1
+1860,USA,Natural hazard,17
+1860,USA,Other Captor,2
+1860,USA,Other Captor,15
+1860,USA,US,26
+1870,France,Natural hazard,1
+1870,France,Other Captor,1
+1870,Portugal,British,1
+1870,Spain,British,5
+1870,Spain,Other Captor,1
+1870,Spain,Other Captor,1
+1870,USA,British,8
+1870,USA,Natural hazard,7
+1870,USA,Other Captor,4
+1870,USA,US,7
